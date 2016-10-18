@@ -1,7 +1,7 @@
 <style>
 </style>
 
-***第七天：优化和APP运营管理***
+***第七天：掌握APICloud应用管理相关服务的配置使用和相关API，包括：应用发布、版本管理、云修复、闪屏广告等。理解APICloud APP优化策略和编码规范；了解APICloud多Widget管理机制和SuperWebview的使用***
 
 #主要内容
 --
