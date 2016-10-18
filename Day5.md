@@ -8,14 +8,13 @@
 1. **[APICloud端引擎架构介绍](#P1)**
 2. **[模块调用过程](#P2)**
 3. **[模块扩展机制](#P3)**
-4. 
+
 	3.1 绑定
 	3.2 桥接
 	3.3 生命周期
 	3.4 界面布局
 	
 4. **[自定义扩展模块](P4)**
-5
 5. **[扩展模块使用](P5)**
 
 	5.1 UI类模块常用接口
@@ -114,13 +113,13 @@
 
 - 音频
 	+ api对象
-		+ 录音：[startRecord()]，[stopRecord()]
-		+ 播放：[startPlay()]，[stopPlay()]
+		+ 录音：[api.startRecord](http://docs.apicloud.com/Client-API/api#54)，[api.stopRecord](http://docs.apicloud.com/Client-API/api#58)
+		+ 播放：[api.startPlay](http://docs.apicloud.com/Client-API/api#53)，[api.stopPlay](http://docs.apicloud.com/Client-API/api#57)
 	+ 扩展模块：文档搜索
 	
 - 视频
  	+ api对象
- 		+ 播放：[openVideo()]
+ 		+ 播放：[api.openVideo](http://docs.apicloud.com/Client-API/api#62)
  	+ 扩展模块：文档搜索
 
 ###6.2 相关API使用
