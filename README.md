@@ -7,12 +7,13 @@
 
 希望通过课程和大家一起交流，共同分享，不断的来完善教程、丰富实例代码和案例。谢谢。
 
+最新教程：[GitHub地址](https://github.com/apicloudcom/APICloud-7Days-Online-Training-Tutorials)
 
-#[第一天](https://github.com/apicloudcom/APICloud-7Days-Online-Training-Tutorials/blob/master/Day1.md)
+
+#[Day-1课程内容](https://github.com/apicloudcom/APICloud-7Days-Online-Training-Tutorials/blob/master/Day1.md)
 
 应用开发之前的准备工作：了解APICloud平台、理解APICloud应用设计思想、掌握平台开发流程。学习如何对一款APICloud应用进行需求分析、功能分解和架构设计等。
 
-###主要内容：
 
 1. **APICloud平台介绍**
 
@@ -91,7 +92,7 @@
 	9.3 申请开放平台相关Key
 
 
-#[第二天](https://github.com/apicloudcom/APICloud-7Days-Online-Training-Tutorials/blob/master/Day2.md)
+#[Day-2课程内容](https://github.com/apicloudcom/APICloud-7Days-Online-Training-Tutorials/blob/master/Day2.md)
 
 理解APICloud应用执行流程，掌握界面布局相关API使用，了解屏幕适配原理，从0开始搭建整体APP框架，完成所有界面跳转，输出完整的APP静态数据版本。
 
@@ -177,7 +178,7 @@
 	
 	10.9 阻止iOS滑动返回
 
-#[第三天](https://github.com/apicloudcom/APICloud-7Days-Online-Training-Tutorials/blob/master/Day3.md)
+#[Day-3课程内容](https://github.com/apicloudcom/APICloud-7Days-Online-Training-Tutorials/blob/master/Day3.md)
 
 了解APICloud平台提供的数据通信能力，掌握APICloud数据通信相关API使用，按照服务端接口文档进行APP前后端接口联调，将APP页面中的静态数据改为从服务端动态获取，并完成相关的业务逻辑。掌握APICloud平台的事件管理机制，了解APICloud数据云功能和使用。
 
@@ -229,7 +230,7 @@
 	
 	8.3 APP中3种与数据云的通信方式
 	
-#[第四天](https://github.com/apicloudcom/APICloud-7Days-Online-Training-Tutorials/blob/master/Day4.md)
+#[Day-4课程内容](https://github.com/apicloudcom/APICloud-7Days-Online-Training-Tutorials/blob/master/Day4.md)
 
 掌握使用JS模版来展示列表数据，推荐使用doT模版；了解下拉刷新和上拉加载的实现原理及相关API的使用，实现下拉刷新、上拉加载更多功能；了解APICloud图片缓存原理及相关API的使用，对APP中网络图片实现本地缓存；了解APICloud平台提供的本地数据能力，理解APICloud应用沙箱结构，了解应用资源访问协议，掌握相关API的使用。
 
@@ -289,7 +290,7 @@
 	
 	7.3 资源访问相关API属性
 
-#[第五天](https://github.com/apicloudcom/APICloud-7Days-Online-Training-Tutorials/blob/master/Day5.md)
+#[Day-5课程内容](https://github.com/apicloudcom/APICloud-7Days-Online-Training-Tutorials/blob/master/Day5.md)
 
 了解APICloud引擎架构，理解模块扩展机制、调用过程和模块设计规范；掌握自定义模块扩展方法，掌握常用UI模块的使用；了解平台提供的多媒体支持能力及相关API。
 
@@ -323,7 +324,7 @@
 	
 	6.2 相关API使用
 
-#[第六天](https://github.com/apicloudcom/APICloud-7Days-Online-Training-Tutorials/blob/master/Day6.md)
+#[Day-6课程内容](https://github.com/apicloudcom/APICloud-7Days-Online-Training-Tutorials/blob/master/Day6.md)
 
 了解如何在APICloud应用中使用第三方开放平台服务，如推送、分享、地图等；了解APICloud平台目前以支撑的第三方服务，掌握第三方模块申请和使用流程；理解自定义Loader的原理，掌握如何编译、安装和使用自定义Loader调试应用。
 
@@ -352,7 +353,7 @@
 5. **第三方登录服务使用**
 6. **第三方推送服务使用**
 
-#[第七天](https://github.com/apicloudcom/APICloud-7Days-Online-Training-Tutorials/blob/master/Day7.md)
+#[Day-7课程内容](https://github.com/apicloudcom/APICloud-7Days-Online-Training-Tutorials/blob/master/Day7.md)
 
 掌握APICloud应用管理相关服务的配置使用和相关API，包括：应用发布、版本管理、云修复、闪屏广告等。理解APICloud APP优化策略和编码规范；了解APICloud多Widget管理机制和SuperWebview的使用。
 
