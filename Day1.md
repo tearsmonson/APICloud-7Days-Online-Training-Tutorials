@@ -333,11 +333,11 @@ UI架构设计文档：ui-architecture.xmind
 - Android：xxx.keystore文件（例如：sxo2o.keystore）
 - iOS：xxx.p12文件、xxx.mobileprovision文件（例如：sxo2o.p12、sxo2o.mobileprovision）
 
-	*推荐文档：*
+*推荐文档：*
 	
-	[安卓证书帮助文档](http://docs.apicloud.com/Dev-Guide/Android-License-Application-Guidance)
+[安卓证书帮助文档](http://docs.apicloud.com/Dev-Guide/Android-License-Application-Guidance)
 	
-	[苹果证书帮助文档](http://docs.apicloud.com/Dev-Guide/iOS-License-Application-Guidance)
+[苹果证书帮助文档](http://docs.apicloud.com/Dev-Guide/iOS-License-Application-Guidance)
 
 	 
 ###9.2 确定应用包名
@@ -357,11 +357,11 @@ UI架构设计文档：ui-architecture.xmind
   </feature>
 ```
 	
-	*推荐文档*
+*推荐文档*
 	
-	[百度地图模块文档](http://docs.apicloud.com/Client-API/Open-SDK/bMap)
+[百度地图模块文档](http://docs.apicloud.com/Client-API/Open-SDK/bMap)
 	
-	[百度开放平台接入指南](http://docs.apicloud.com/Others/Open-SDK-Integration-Guide/baidu)
+[百度开放平台接入指南](http://docs.apicloud.com/Others/Open-SDK-Integration-Guide/baidu)
 
 - 微信登录
 ```
@@ -372,11 +372,11 @@ UI架构设计文档：ui-architecture.xmind
   </feature>
 ```
 
-	*推荐文档*
+*推荐文档*
 
-	[微信模块文档](http://docs.apicloud.com/Client-API/Open-SDK/wx)
+[微信模块文档](http://docs.apicloud.com/Client-API/Open-SDK/wx)
 	
-	[微信开放平台接入指南](http://docs.apicloud.com/Others/Open-SDK-Integration-Guide/weChat)
+[微信开放平台接入指南](http://docs.apicloud.com/Others/Open-SDK-Integration-Guide/weChat)
 
 - 个推推送
 ```
@@ -390,8 +390,8 @@ UI架构设计文档：ui-architecture.xmind
     </feature>
 ```
 
-	*推荐文档*
+*推荐文档*
 
-	[个推模块文档](http://docs.apicloud.com/Client-API/Open-SDK/pushGeTui)
+[个推模块文档](http://docs.apicloud.com/Client-API/Open-SDK/pushGeTui)
 
-	[个推开放平台接入指南](http://docs.apicloud.com/Others/Open-SDK-Integration-Guide/pushGeTui_manual)
+[个推开放平台接入指南](http://docs.apicloud.com/Others/Open-SDK-Integration-Guide/pushGeTui_manual)
