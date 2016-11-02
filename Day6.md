@@ -33,11 +33,11 @@
 
 ###1.1 集成流程
 
-![集成流程](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/39a0494a6b841a2d1a65af0c335defc6.png)
+![集成流程](http://docs.apicloud.com/img/docImage/seven-course/day6/6.1.png)
 
 ###1.2 目前已经集成的第三方服务模块
 
-![集成情况](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/7356ae8be42a7e383741f9f0ae59eeb1.png)
+![集成情况](http://docs.apicloud.com/img/docImage/seven-course/day6/6.2.png)
 
 *详细参考：[APICloud聚合API-开发SDK](http://www.apicloud.com/mod-sdk)*
 
@@ -50,7 +50,7 @@ AppLoader（官方或自定义）其实就是一个APP，只不过他启动后�
 
 ###2.1 原理
 
-![自定义Loader](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/f362b981bc971b4cec9b9ee5a975c703.png)
+![自定义Loader](http://docs.apicloud.com/img/docImage/seven-course/day6/6.3.png)
 
 ###2.2 编译
 

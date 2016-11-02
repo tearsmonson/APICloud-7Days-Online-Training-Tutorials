@@ -28,12 +28,12 @@
 <div id=P1></div>
 #1. 端引擎架构
 --
-![端引擎架构](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/906dbdfa5d219b393212255a031f3fb2.png)
+![端引擎架构](http://docs.apicloud.com/img/docImage/seven-course/day5/5.1.png)
 
 <div id=P2></div>
 #2. 模块调用过程
 --
-![模块调用过程](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/c88aa1e710e0cfafcc9df6dbe2f14142.png)
+![模块调用过程](http://docs.apicloud.com/img/docImage/seven-course/day5/5.2.png)
 
 <div id=P3></div>
 #3. 模块扩展机制

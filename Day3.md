@@ -143,7 +143,7 @@ HTTP + JSON是最常用的前后端数据通信方式
 
 ###7.1 全局事件管理
 
-![全局事件管理](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/71ee3dee91f573407d9bcd769035a79c.png)
+![全局事件管理](http://docs.apicloud.com/img/docImage/seven-course/day3/3.1.png)
 
 ###7.2 平台事件类型
 
@@ -193,11 +193,11 @@ HTTP + JSON是最常用的前后端数据通信方式
 --
 
 云端一体架构，简化应用开发
-![云端一体架构](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/4d1bd2efe8390e917c86a373644df206.png)
+![云端一体架构](http://docs.apicloud.com/img/docImage/seven-course/day3/3.2.png)
 
 ###8.1 数据云功能特点
 
-![数据云](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/f5f26ab7352ad18b77e8caadb6685d50.png)
+![数据云](http://docs.apicloud.com/img/docImage/seven-course/day3/3.3.png)
 
 - 无需搭建服务器、设计表结构，无需编写任何后端代码
 - 默认内置user, file, role等基础数据模型，可以根据应用需求，扩展字段或自定义其他数据模型

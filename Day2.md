@@ -92,7 +92,7 @@
 
 ###1.1 APICloud应用执行流程说明
 
-![图片说明](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/6715e9ccf8add5c2651b4f4ea4a01fd2.png)
+![图片说明](http://docs.apicloud.com/img/docImage/seven-course/day2/2.1.png)
 
 推荐视频：[APICloud视频之初级代码篇第3讲 APICloud整体介绍](http://www.apicloud.com/video_play?list=2&index=1)
 
@@ -186,7 +186,7 @@ api对象是APICloud在全局作用域内唯一的一个扩展对象，api对象
 --
 
 ###8.1 沉浸式状态栏效果说明
-![状态栏处理](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/ef0495971c254a378f64b55eb9a19378.png)
+![状态栏处理](http://docs.apicloud.com/img/docImage/seven-course/day2/2.2.png)
 
 ###8.2 沉浸式效果实现
   
@@ -252,7 +252,7 @@ DrawerLayout
 --
 
 ###10.1 页面UI结构分析
-![首页UI结构](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/e5ecd31476606b547dcf50bb50fd5b16.png)
+![首页UI结构](http://docs.apicloud.com/img/docImage/seven-course/day2/2.3.png)
 
 ###10.2 按照UI架构设计创建对应UI组件及H5文件
 

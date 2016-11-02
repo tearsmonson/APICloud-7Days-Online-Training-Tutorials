@@ -94,14 +94,14 @@
   
 APICloud平台功能体系:
 
-  ![APICloud扩展能力](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/b1d0f3a6be7a89294dbfad1e280a945b.png)
+  ![APICloud扩展能力](http://docs.apicloud.com/img/docImage/seven-course/day1/1.1.png)
   
 ###1.2 APICloud应用的开发模式和使用的技术语言
 
 > 使用APICloud开发APP需要什么技术? 自己的团队是否适合?
   
  APICloud应用开发模式： *标准的HTML/CSS/JS + APICloud扩展API*
-![图片说明](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/45e0c9e7841b706e8110d36ccfb0abc5.png)
+![图片说明](http://docs.apicloud.com/img/docImage/seven-course/day1/1.2.png)
 
   APICloud扩展API调用方式：
   就是使用标准的JavaScript语法，与标准的JavaScript对象调用方式一致。
@@ -131,13 +131,13 @@ APICloud平台功能体系:
   
 为什么要扩展API？
 
-  ![为什么扩展API](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/b2700246ed003bbfb7ebacccfc8aa343.png)
+  ![为什么扩展API](http://docs.apicloud.com/img/docImage/seven-course/day1/1.3.png)
   
 [APICloud聚合API](http://www.apicloud.com/modulestore)
   
 APICloud平台定位：
 
-  ![APICloud平台定位](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/cc896b69656ece773bf80429b59bb2ae.png)
+  ![APICloud平台定位](http://docs.apicloud.com/img/docImage/seven-course/day1/1.4.png)
   
 ###1.3 对APICloud平台各个方面做一个整体了解
 
@@ -187,7 +187,7 @@ APICloud应用开发的基本流程
 
 APICloud应用编码调试原理：
 
-![编码调试原理](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/55808dc7cfce9ecdc5be57bc131ba32c.png)
+![编码调试原理](http://docs.apicloud.com/img/docImage/seven-course/day1/1.5.png)
 
 APPLoader加载Widget的路径：
 
@@ -246,7 +246,7 @@ APPLoader加载Widget的路径：
 ###4.1 理解APICloud应用设计思想
 Client/Cloud架构设计，完整的前后端分离，在移动端实现界面和功能，在服务端提供数据和服务
 
-![APICloud应用架构设计](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/cc7f27fe29f8a6b282ad49f7dda847cc.png)
+![APICloud应用架构设计](http://docs.apicloud.com/img/docImage/seven-course/day1/1.6.png)
 
 <div id="P5"></div>
 #5. UI架构设计
@@ -256,7 +256,7 @@ Client/Cloud架构设计，完整的前后端分离，在移动端实现界面�
 
 ###5.1 APICloud应用的UI组成结构
 
-![图片说明](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/c65c27a1d0c1c21dd5e7254fde387a3d.png)
+![图片说明](http://docs.apicloud.com/img/docImage/seven-course/day1/1.7.png)
 
 ###5.2 APICloud界面布局5大组件
 - Widget: Widget是APICloud应用运行管理的最小单位，每一个APICloud应用至少包含一个Widget，每一个Widget都具有独立的代码、资源和窗口系统，Widget之间可以相互调用。Widget在UI上表现为一个独立的窗口容器，内部可以包含Layout、Window或UIModule，并且同一时刻，应用中只能有一个Widget在界面上显示。
@@ -282,11 +282,11 @@ Client/Cloud架构设计，完整的前后端分离，在移动端实现界面�
 ###5.3 理解APICloud混合渲染技术原理
 浏览器的页面渲染机制：
 
-![图片说明](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/ffef153713183766b740a93e195a8603.png)
+![图片说明](http://docs.apicloud.com/img/docImage/seven-course/day1/1.8.png)
 
 APICloud混合渲染机制：
 
-![图片说明](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/02799a73c357227af0e475f279d3aadb.png)
+![图片说明](http://docs.apicloud.com/img/docImage/seven-course/day1/1.9.png)
 
 ###5.4 使用APICloud5大UI组件完成应用UI架构设计
 

@@ -79,7 +79,7 @@
 
 ###1.1 云编译
 
-![应用发布流程](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/1ba1b54535e027328c21f894d3853bf7.png)
+![应用发布流程](http://docs.apicloud.com/img/docImage/seven-course/day7/7.1.png)
 
 ###1.2 代码全包加密
 
@@ -134,7 +134,7 @@ Config文件中对access字段的配置
 #3. 云修复
 --
 
-![云修复](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/dbe314249da9e0af7966fd9885690c0c.png)
+![云修复](http://docs.apicloud.com/img/docImage/seven-course/day7/7.2.png)
 
 ###3.1 在APICloud控制台进行云修复（应用内热更新）
 
@@ -228,7 +228,7 @@ Config文件中对access字段的配置
 --
 
 ###7.1 多Widget架构
-![应用组成结构](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/e95abbbed7e7fe28fa3cd45f1f65aa19.png)
+![应用组成结构](http://docs.apicloud.com/img/docImage/seven-course/day7/7.3.png)
 
 - 通过ID对Widget进行管理
 - Widget在界面上表现为独立的窗口容器，由多个窗口所组成
