@@ -1,7 +1,14 @@
 <style>
 </style>
 
-***第一天：应用开发之前的准备工作：了解APICloud平台、理解APICloud应用设计思想、掌握平台开发流程。学习如何对一款APICloud应用进行需求分析、功能分解和架构设计等。***
+***第一天：了解APICloud平台、理解APICloud应用设计思想、掌握平台使用流程。学习如何对一款APP进行需求分析、功能分解和架构设计等编码之前重要的准备工作。***
+
+#学习目标
+--
+- 总体上了解一下APICloud平台，重点介绍相关的学习资源，入门资料，常见的FAQ等
+- 明确我们这七天要开发一个什么样的APP，明确功能需求，跟上每天的课程节奏，可以课前预习
+- 梳理出对于一款APP，在开发之前（Coding之前），一些通用而又重要的准备工作，适合于所有APP开发，而非单指APICloud
+
 
 #主要内容
 --
@@ -12,7 +19,7 @@
 	
 	1.2 APICloud应用的开发模式和使用的技术语言
 	
-	1.3 APICloud平台各个方面做一个整体的了解
+	1.3 APICloud技术、产品、生态、案例、商业模式的总体介绍
 	
 	1.4 APICloud开发者相关的服务支撑体系
 	
@@ -87,7 +94,9 @@
 --
 
 ###1.1 查看APICloud平台能力
-> APICloud平台能否满足自己的APP开发需求? 
+> 要使用APICloud平台开发APP，很多用户的第一个问题是：APICloud平台能否满足自己的APP开发需求? 
+> 
+> 可以带着目的来了解APICloud平台能力，掌握如何快速查找相关的能力
 
   [查看API文档&nbsp;&nbsp;>>](http://docs.apicloud.com/)
   *了解APICloud文档组织结构，学会通过文档搜索，找到需要的功能*
@@ -99,6 +108,8 @@ APICloud平台功能体系:
 ###1.2 APICloud应用的开发模式和使用的技术语言
 
 > 使用APICloud开发APP需要什么技术? 自己的团队是否适合?
+> 
+> 学习曲线是什么样子？入门是否简单？
   
  APICloud应用开发模式： *标准的HTML/CSS/JS + APICloud扩展API*
 ![图片说明](http://docs.apicloud.com/img/docImage/seven-course/day1/1.2.png)
@@ -139,7 +150,7 @@ APICloud平台定位：
 
   ![APICloud平台定位](http://docs.apicloud.com/img/docImage/seven-course/day1/1.4.png)
   
-###1.3 对APICloud平台各个方面做一个整体了解
+###1.3 APICloud技术、产品、生态、案例、商业模式的总体介绍
 
 > 从整体各个方面来看APICloud怎么样？
 > 
@@ -148,7 +159,11 @@ APICloud平台定位：
 *推荐视频：[APICloud视频之初级代码篇第1-3讲](http://www.apicloud.com/video_list)*
 
 ###1.4 了解APICloud开发者相关的服务支撑体系
+> 如何解决开发者的问题？能为开发者提供哪些机会？是否有围绕开发者的生态模式？
+> 
 > 是否有一个完善的开发者相关支持服务体系来方便技术学习和社区交流？
+> 
+> 是否有一个完善的生态体系，来支持支撑APICloud APP开发，来满足各种不同的行业需求，来支撑实现需求复杂，功能强大的应用。
 
   + [开发平台](http://www.apicloud.com)
   + [开发工具](http://www.apicloud.com/devtools)
@@ -163,6 +178,7 @@ APICloud平台定位：
 
 ###1.5 新手应该如何开始入门APICloud应用开发
 > 如何能快速入门？
+> 最好的学习资料来哪？
   + [新手开发指南](http://docs.apicloud.com/APICloud/junior-develop-guide)
   + [新手教程合集贴](http://community.apicloud.com/bbs/forum.php?mod=viewthread&tid=7926&extra=page%3D1)
   + [视频教程](http://www.apicloud.com/video_list)
@@ -183,20 +199,22 @@ APICloud应用开发的基本流程
 
 *推荐视频：[APICloud视频之初级代码篇第5讲](http://www.apicloud.com/video_list)*
 
-###2.2 [选定一款主流H5编码工具并安装相应的APICloud插件](https://www.apicloud.com/devtools)
+###2.2 [选定一款主流前端编码工具并安装相应的APICloud插件](https://www.apicloud.com/devtools)
 
 APICloud应用编码调试原理：
 
-![编码调试原理](http://docs.apicloud.com/img/docImage/seven-course/day1/1.5.png)
+![编码调试原理](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/5d080161882e765944c7756405d43eca.png)
 
 APPLoader加载Widget的路径：
 
 - android: **sdcard/UZMap/wgt/**
 - ios: **Document/uzfs/wgt/**
 
-目前APICloud开发工具插件支持：Sublime Text、WebStorm、Eclipse.
+目前APICloud开发工具插件支持：Sublime Text、WebStorm、Atom、Eclipse.
 
 ***推荐使用：Sublime Text + APICloud Plugin***
+
+***推荐使用：Atom + APICloud Plugin***
 
 插件功能包括：
   + 新建应用
@@ -215,11 +233,23 @@ APPLoader加载Widget的路径：
   
 *推荐文档：[Sublime插件使用说明](http://docs.apicloud.com/Dev-Tools/sublime-apicloud-plugin)*
 
+*推荐文档：[Atom插件使用说明](http://docs.apicloud.com/Dev-Tools/Atom-apicloud-plugin)*
+
 *推荐视频：[APICloud视频之初级代码篇第9-11讲自定义loader使用](http://www.apicloud.com/video_play?list=2&index=1)*
 
 *推荐文档：[自定义loader说明](http://docs.apicloud.com/Dev-Guide/Custom_Loader)*
 
+APICloud CLI工具
+
+一套基于Nodejs的命令行，包括APICloud工具插件全部核心功能，基于GPL3.0开源。开发者可以通过调用命令行的方式将APICloud工具轻松集成到任何前端开发工具中。
+
+*推荐文档：[apicloud-cli 工具使用说明](http://docs.apicloud.com/Dev-Tools/apicloud-cli)*
+
+*推荐文档：[APICloud 开发工具核心库](http://docs.apicloud.com/Dev-Tools/apicloud-tools-core)*
+
 ###2.3 APICloud应用开发的基础操作流程
+
+![基础开发流程](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/b2220d5ef1263faa6962728aa2db76b8.png)
 
 在APICloud平台上有4种查看APP运行效果的手段：
 - 官方AppLoader
@@ -244,7 +274,7 @@ APPLoader加载Widget的路径：
 --
 
 ###4.1 理解APICloud应用设计思想
-Client/Cloud架构设计，完整的前后端分离，在移动端实现界面和功能，在服务端提供数据和服务
+Client/Cloud架构设计，完整的前后端分离，在移动端实现界面和功能，在服务端提供数据和服务。
 
 ![APICloud应用架构设计](http://docs.apicloud.com/img/docImage/seven-course/day1/1.6.png)
 
@@ -320,7 +350,9 @@ UI架构设计文档：ui-architecture.xmind
 #8. 数据接口定义
 --
 
->可以选择使用APICloud数据云，也可以自己来开发服务端接口
+APICloud应用架构是Client＋Cloud架构，终端实现UI布局和功能，云端提供数据和服务。开发APICloud应用，与服务器端程序的实现方式和开发语言没有任何关系。
+
+**可以选择使用APICloud数据云，也可以自己来开发服务端接口**
 
 ###8.1 定义输出服务端接口文档：server-api.pdf
 ###8.2 输出服务端接口调试文件：server-api.postman_collection
@@ -352,8 +384,11 @@ UI架构设计文档：ui-architecture.xmind
 - 百度地图
 ```
 <feature name="bMap">
+
         <param name="android_api_key" value="0nKBc8SkhvOGxGOLZ96Q6iWXcSU0iOhe" />
+        
         <param name="ios_api_key" value="iObZMn4A1N6pxQBhgG4ElbHmaDNshPZR" />
+        
   </feature>
 ```
 	
@@ -366,9 +401,13 @@ UI架构设计文档：ui-architecture.xmind
 - 微信登录
 ```
  <feature name="wx">
+ 
         <param name="urlScheme" value="wxd0d84bbf23b4a0e4"/>
+        
         <param name="apiKey" value="wxd0d84bbf23b4a0e4"/>
+        
         <param name="apiSecret" value="a354f72aa1b4c2b8eaad137ac81434cd"/>
+        
   </feature>
 ```
 
@@ -381,12 +420,19 @@ UI架构设计文档：ui-architecture.xmind
 - 个推推送
 ```
 <feature name="pushGeTui">
+
         <param name="ios_appkey" value="xCGkZR1bCp6gscLUB20Dl4" />
+        
         <param name="ios_appid" value="G5lfFkQZ008VoZUXydA2r2" />
+        
         <param name="ios_appsecret" value="RuxlC8ExWA7T4NFoJhQFd6" />
+        
         <param name="android_appkey" value="SsYLDV34ik5CBgtdzCQ608" />
+        
         <param name="android_appid" value="dASHvkJSLc9Q5vvSEALdI4" />
+        
         <param name="android_appsecret" value="BmjqFXsFDS6SVMyV2JXglA" />
+        
     </feature>
 ```
 
