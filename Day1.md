@@ -249,7 +249,7 @@ APICloud CLI工具
 
 ###2.3 APICloud应用开发的基础操作流程
 
-![基础开发流程](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/b2220d5ef1263faa6962728aa2db76b8.png)
+![基础开发流程](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/63253d6d0006c251ebb45ac9849b2888.png)
 
 在APICloud平台上有4种查看APP运行效果的手段：
 - 官方AppLoader
@@ -263,7 +263,7 @@ APICloud CLI工具
 
 ###3.1 梳理需求
 
-*输出需求说明文档： requirement-spec.xml*
+*输出需求说明文档： [requirement-spec.xml](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/3df056696e3156d08cbaeed4aed1c42c.xlsx)*
 
 ###3.2 进行UE/UI设计
 
@@ -298,7 +298,7 @@ Client/Cloud架构设计，完整的前后端分离，在移动端实现界面�
 (http://docs.apicloud.com/Client-API/api#12)
   * 打开FrameGroup:&nbsp;[api.openFrameGroup()](http://docs.apicloud.com/Client-API/api#28)
   * 关闭FrameGroup:&nbsp;[api.closeFrameGroup()](http://docs.apicloud.com/Client-API/api#11)
-- Window: Window是一个独立的Naive窗口（Android或iOS），是APICloud应用界面布局的基本组件，每一个APP都是由多个Window组成。Window所承载的内容其所加载的HTML页面决定。每一个Window都是独立的Web容器，有自己独立的Dom树结构，并且独立进行渲染。Window的起点位于屏幕左上角，宽高占满屏幕，不可修改。Window内部可以包含Layout、Frame和UIModule 。
+- Window: Window是一个独立的Naive窗口（Android或iOS），是APICloud应用界面布局的基本组件，每一个APP都是由多个Window组成。Window所承载的内容其所加载的HTML页面决定。每一个Window都是独立的Web容器，有自己独立的Dom树结构，并且独立进行渲染。Window的起点位于屏幕左上角，宽高占满屏幕，不可修改。Window内部可以包含Layout、Frame和UIModule。
   * 打开Window:&nbsp;[api.openWin()](http://docs.apicloud.com/Client-API/api#33)
   * 关闭Window:&nbsp;[api.closeWin()](http://docs.apicloud.com/Client-API/api#15)
 - Frame: Frame是一个独立的Native视图（Android或iOS），视图所承载的内容其所加载的HTML页面决定。每一个Frame都是独立的Web容器，有自己独立的Dom树结构，并且独立进行渲染。Frame的位置和宽高可通过参数配置。Frame通常作为一个子视图，嵌入到Window或Layout中，Frame内部可以包含UIModule。
@@ -322,11 +322,11 @@ APICloud混合渲染机制：
 
 根据产品原型和UI设计图，按界面逐个分析。
 
-> *编写一个小的界面布局的测试Demo。。。*
+> *编写一个小的界面布局的测试[Demo](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/14839882e62a7c7c200eabdfe4729ff0.zip)。。。*
 
 ###5.5 输出APP的UI架构设计文档
 
-UI架构设计文档：ui-architecture.xmind
+UI架构设计文档：[ui-architecture.xmind](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/5314e37fd76105e2bf70d0bf964db340.xmind)
 
 <div id="P6"></div>
 #6. 功能点分解
@@ -335,7 +335,7 @@ UI架构设计文档：ui-architecture.xmind
 ###6.1 基于需求说明，梳理出主要功能点
 ###6.2 为每个功能点，给出合适的技术实现方案
 ###6.3 在APICloud聚合API找到功能点对应的模块
-###6.4 输出APP的功能模块分解文档：function-modules.xmind
+###6.4 输出APP的功能模块分解文档：[function-modules.xmind](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/2966eb9edaa13ccd7b37fe4e57512be9.xmind)
 
 <div id="P7"></div>
 #7. 开放服务选择
@@ -344,7 +344,7 @@ UI架构设计文档：ui-architecture.xmind
 ###7.1 基于需求说明，梳理出需要使用的开放服务
 ###7.2 调研不同的开放服务商所提供的服务是否能满足自己应用的需求
 ###7.3 在APICloud聚会API找到对应的开放服务模块
-###7.4 输出APP的开放服务分解文档：service-modules.xmind
+###7.4 输出APP的开放服务分解文档：[service-modules.xmind](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/e7db23fc8e152992c65c8cee53b2dc94.xmind)
 
 <div id=P8></div>
 #8. 数据接口定义
@@ -354,8 +354,8 @@ APICloud应用架构是Client＋Cloud架构，终端实现UI布局和功能，�
 
 **可以选择使用APICloud数据云，也可以自己来开发服务端接口**
 
-###8.1 定义输出服务端接口文档：server-api.pdf
-###8.2 输出服务端接口调试文件：server-api.postman_collection
+###8.1 定义输出服务端接口文档：[server-api.pdf](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/7cb2dd66607d91cd7957d548b4e7c1e6.pdf)
+###8.2 输出服务端接口调试文件：[server-api.postman_collection](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/99d3e5fb1adff0f0cca6908db45a7969.postman_collection)
 
 #9. 应用证书和第三方Key申请
 --
