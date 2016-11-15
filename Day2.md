@@ -3,6 +3,8 @@
 
 ***第二天：理解APICloud应用执行流程，掌握界面布局相关API使用，了解屏幕适配原理，从0开始搭建整体APP框架，完成所有界面跳转，输出完整的APP静态数据版本。***
 
+[第二天课程源码下载](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/e50c068b5af5499d5a4e3b21d311a0c8.zip)
+
 #主要内容
 --
 
@@ -323,3 +325,5 @@ DrawerLayout
 ###10.9 阻止iOS滑动返回
 
 - 设置slidBackEnabled参数
+
+[第二天课程源码下载](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/e50c068b5af5499d5a4e3b21d311a0c8.zip)
