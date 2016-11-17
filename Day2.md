@@ -5,6 +5,13 @@
 
 [第二天课程源码下载](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/e50c068b5af5499d5a4e3b21d311a0c8.zip)
 
+#学习目标
+--
+- APICloud应用的执行流程，Main Widget和Root Window的创建时机
+- 为什么启动会加载index.html和执行apiready函数
+- APICloud屏幕适配的原理，弹性响应式和流式结合的布局方式
+- 如何搭建APP的UI结构
+
 #主要内容
 --
 
