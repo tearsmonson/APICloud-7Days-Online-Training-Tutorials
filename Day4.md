@@ -1,9 +1,15 @@
 <style>
 </style>
 
-***第四天：掌握使用JS模版来展示列表数据，推荐使用doT模版；了解下拉刷新和上拉加载的实现原理及相关API的使用，实现下拉刷新、上拉加载更多功能；了解APICloud图片缓存原理及相关API的使用，对APP中网络图片实现本地缓存；了解APICloud平台提供的本地数据能力，理解APICloud应用沙箱结构，了解应用资源访问协议，掌握相关API的使用***
+***第四天：掌握使用JS模版来实现列表数据，推荐使用doT模版；了解下拉刷新和上拉加载的实现原理及相关API的使用，实现下拉刷新、上拉加载更多功能；了解APICloud图片缓存原理及相关API的使用，对APP中网络图片实现本地缓存；了解APICloud平台提供的本地数据能力，理解APICloud应用沙箱结构，了解应用资源访问协议，掌握相关API的使用***
 
 [第四天课程源码](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/dcf300598ee3df5f3076faa74f384e22.zip)
+
+#学习目标
+- 使用doT模版函数实现列表数据
+- 下拉刷新，上拉加载
+- 图片缓存
+- 数据更新后的点击事件优化
 
 #主要内容
 
@@ -160,6 +166,7 @@
 
 ###5.2.4 database
 - [db模块](http://docs.apicloud.com/Client-API/Func-Ext/db)
+	- 打开数据库
 
 ###5.2.5 存储容量相关
 - [api.getFreeDiskSpace()](http://docs.apicloud.com/Client-API/api#85)

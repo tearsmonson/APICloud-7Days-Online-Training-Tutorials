@@ -144,7 +144,7 @@ APICloud平台功能体系:
   
 为什么要扩展API？
 
-  ![为什么扩展API](http://docs.apicloud.com/img/docImage/seven-course/day1/1.3.png)
+  ![为什么扩展API](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/f062adcb294b2ebb4c61e4703bec3a6e.png)
   
 [APICloud聚合API](http://www.apicloud.com/modulestore)
   

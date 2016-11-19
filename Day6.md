@@ -66,7 +66,9 @@ AppLoader（官方或自定义）其实就是一个APP，只不过他启动后�
 
 - Sublime Text
 - webStorm
+- Atom
 - Eclipse
+- CLI
 
 
 *推荐文档：[自定义Loader说明](http://docs.apicloud.com/Dev-Guide/Custom_Loader)*
@@ -75,11 +77,11 @@ AppLoader（官方或自定义）其实就是一个APP，只不过他启动后�
 
 #3. 第三方服务模块使用流程
 
-- 到第三方服务开放平台申请相关Id和Key
-- 在应用的Config文件中配置相关Id和Key
-- 在控制台配置应用的包名和证书与申请开放服务时填写的完全一致
-- 编译自定义Loader，使用自定义Loader调试
-- 在应用代码中require相关模块，并调用API
+- 第一步：到第三方服务开放平台申请相关Id和Key
+- 第二步：在APICloud应用的Config文件中配置相关Id和Key
+- 第三步：确定控制台配置应用的包名和证书与申请开放服务时填写的完全一致
+- 第四步：编译自定义Loader，使用自定义Loader调试
+- 第五步：在应用代码中require相关模块，并调用API
 
 
 #4. 地图
@@ -87,9 +89,20 @@ AppLoader（官方或自定义）其实就是一个APP，只不过他启动后�
 百度地图模块
 
 + 配置
-+ 定位
-+ 根据经纬度获得所在的城市
-+ 城市智能搜索
+
+```
+<feature name="bMap">
+
+        <param name="android_api_key" value="0nKBc8SkhvOGxGOLZ96Q6iWXcSU0iOhe" />
+        
+        <param name="ios_api_key" value="iObZMn4A1N6pxQBhgG4ElbHmaDNshPZR" />
+        
+</feature>
+```
+
++ 定位：[bMap.getLocation()](http://docs.apicloud.com/Client-API/Open-SDK/bMap#m6)
++ 根据经纬度获得所在的城市：[bMap.getNameFromCoords()](http://docs.apicloud.com/Client-API/Open-SDK/bMap#m9)
++ 城市智能搜索：[bMap.searchInCity()](http://docs.apicloud.com/Client-API/Open-SDK/bMap#s7)
 
 *推荐文档*
 	
@@ -102,8 +115,31 @@ AppLoader（官方或自定义）其实就是一个APP，只不过他启动后�
 微信模块
 
 + 配置
+
+```
+ <feature name="wx">
+ 
+        <param name="urlScheme" value="wxd0d84bbf23b4a0e4"/>
+        
+        <param name="apiKey" value="wxd0d84bbf23b4a0e4"/>
+        
+        <param name="apiSecret" value="a354f72aa1b4c2b8eaad137ac81434cd"/>
+        
+</feature>
+```
+
 + 分享
+	- [wx.shareText()](http://docs.apicloud.com/Client-API/Open-SDK/wx#a2)
+	- [wx.shareImage()](http://docs.apicloud.com/Client-API/Open-SDK/wx#a3)
+	- [wx.shareMusic()](http://docs.apicloud.com/Client-API/Open-SDK/wx#a4)
+	- [wx.shareVideo()](http://docs.apicloud.com/Client-API/Open-SDK/wx#a5)
+	- [wx.shareWebpage()](http://docs.apicloud.com/Client-API/Open-SDK/wx#a6)
+
 + 登录
+	- [wx.auth()](http://docs.apicloud.com/Client-API/Open-SDK/wx#a7)
+	- [wx.getToken()](http://docs.apicloud.com/Client-API/Open-SDK/wx#a8)
+	- [wx.getUserInfo()](http://docs.apicloud.com/Client-API/Open-SDK/wx#a9)
+	- [wx.refreshToken()](http://docs.apicloud.com/Client-API/Open-SDK/wx#a10)
 
 *推荐文档*
 
@@ -121,7 +157,28 @@ AppLoader（官方或自定义）其实就是一个APP，只不过他启动后�
 个推模块
 
 + 配置
-+ 初始化
+
+```
+<feature name="pushGeTui">
+
+        <param name="ios_appkey" value="xCGkZR1bCp6gscLUB20Dl4" />
+        
+        <param name="ios_appid" value="G5lfFkQZ008VoZUXydA2r2" />
+        
+        <param name="ios_appsecret" value="RuxlC8ExWA7T4NFoJhQFd6" />
+        
+        <param name="android_appkey" value="SsYLDV34ik5CBgtdzCQ608" />
+        
+        <param name="android_appid" value="dASHvkJSLc9Q5vvSEALdI4" />
+        
+        <param name="android_appsecret" value="BmjqFXsFDS6SVMyV2JXglA" />
+        
+</feature>
+```
+
++ 初始化：
+	- [pushGeTui.initialize()](http://docs.apicloud.com/Client-API/Open-SDK/pushGeTui#a1)
+	- [pushGeTui.registerDeviceToken()](http://docs.apicloud.com/Client-API/Open-SDK/pushGeTui#a2)
 + 绑定
 + 推送消息与通知
 + 监听消息和通知
