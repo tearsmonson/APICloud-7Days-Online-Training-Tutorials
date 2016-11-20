@@ -3,6 +3,8 @@
 
 ***第六天：了解如何在APICloud应用中使用第三方开放平台服务，如推送、分享、地图等；了解APICloud平台目前以支撑的第三方服务，掌握第三方模块申请和使用流程；理解自定义Loader的原理，掌握如何编译、安装和使用自定义Loader调试应用。***
 
+[第六天课程源码](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/0a92a2e3947b8563077bcca6dffeb51c.zip)
+
 #主要内容
 
 1. **[集成第三方服务](#P1)**
