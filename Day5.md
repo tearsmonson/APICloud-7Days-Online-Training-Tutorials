@@ -5,6 +5,8 @@
 
 [第五天课程源码](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/56a7db2d2ba277713bc30882efe12913.zip)
 
+教程更新：[Github地址](https://github.com/apicloudcom/APICloud-7Days-Online-Training-Tutorials/blob/master/Day5.md)
+
 #主要内容
 
 1. **[APICloud端引擎架构介绍](#P1)**

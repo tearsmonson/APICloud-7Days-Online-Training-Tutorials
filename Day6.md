@@ -5,6 +5,8 @@
 
 [第六天课程源码](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/0a92a2e3947b8563077bcca6dffeb51c.zip)
 
+教程更新：[Github地址](https://github.com/apicloudcom/APICloud-7Days-Online-Training-Tutorials/blob/master/Day6.md)
+
 #主要内容
 
 1. **[集成第三方服务](#P1)**

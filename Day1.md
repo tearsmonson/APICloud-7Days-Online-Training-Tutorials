@@ -5,6 +5,8 @@
 
 [课程相关资料](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/99f27562d0b602d064b57569475dc00d.zip)
 
+教程更新：[Github地址](https://github.com/apicloudcom/APICloud-7Days-Online-Training-Tutorials/blob/master/Day1.md)
+
 #学习目标
 --
 - 总体上了解一下APICloud平台，重点介绍相关的学习资源，入门资料，常见的FAQ等

@@ -5,6 +5,8 @@
 
 [第二天课程源码下载](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/e50c068b5af5499d5a4e3b21d311a0c8.zip)
 
+教程更新：[Github地址](https://github.com/apicloudcom/APICloud-7Days-Online-Training-Tutorials/blob/master/Day2.md)
+
 #学习目标
 --
 - APICloud应用的执行流程，Main Widget和Root Window的创建时机

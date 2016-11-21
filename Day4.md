@@ -5,6 +5,8 @@
 
 [第四天课程源码](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/dcf300598ee3df5f3076faa74f384e22.zip)
 
+教程更新：[Github地址](https://github.com/apicloudcom/APICloud-7Days-Online-Training-Tutorials/blob/master/Day4.md)
+
 #学习目标
 - 使用doT模版函数实现列表数据
 - 下拉刷新，上拉加载

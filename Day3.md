@@ -5,6 +5,8 @@
 
 [第三天课程源码](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/c8078f42d6c7d315f32c67e0c88b53e6.zip)
 
+教程更新：[Github地址](https://github.com/apicloudcom/APICloud-7Days-Online-Training-Tutorials/blob/master/Day3.md)
+
 #学习目标
 --
 - 如何实现前后端的数据通信，如何进行接口联调
