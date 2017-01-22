@@ -5,7 +5,7 @@
 
 [课程相关资料](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/99f27562d0b602d064b57569475dc00d.zip)
 
-[本期课程演示案例（仿每日优先APP）](http://downloadpkg.apicloud.com/app/download?path=http://7y44yj.com1.z0.glb.clouddn.com/c7432757db98f0d6f742a2522461c0a5_d)
+[本期课程演示案例（仿每日优鲜APP）](http://downloadpkg.apicloud.com/app/download?path=http://7y44yj.com1.z0.glb.clouddn.com/c7432757db98f0d6f742a2522461c0a5_d)
 
 教程更新：[Github地址](https://github.com/apicloudcom/APICloud-7Days-Online-Training-Tutorials/blob/master/Day1.md)
 
