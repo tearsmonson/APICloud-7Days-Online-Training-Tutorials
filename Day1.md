@@ -1,6 +1,3 @@
-<style>
-</style>
-
 ***第一天：了解APICloud平台、理解APICloud应用设计思想、掌握平台使用流程。学习如何对一款APP进行需求分析、功能分解和架构设计等编码之前重要的准备工作。***
 
 [课程相关资料](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/99f27562d0b602d064b57569475dc00d.zip)
