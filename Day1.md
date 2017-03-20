@@ -335,10 +335,10 @@ UI架构设计文档：[ui-architecture.xmind](http://7xy8na.com1.z0.glb.clouddn
 # 6. 功能点分解
 --
 
-###6.1 基于需求说明，梳理出主要功能点
-###6.2 为每个功能点，给出合适的技术实现方案
-###6.3 在APICloud聚合API找到功能点对应的模块
-###6.4 输出APP的功能模块分解文档：[function-modules.xmind](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/2966eb9edaa13ccd7b37fe4e57512be9.xmind)
+### 6.1 基于需求说明，梳理出主要功能点
+### 6.2 为每个功能点，给出合适的技术实现方案
+### 6.3 在APICloud聚合API找到功能点对应的模块
+### 6.4 输出APP的功能模块分解文档：[function-modules.xmind](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/2966eb9edaa13ccd7b37fe4e57512be9.xmind)
 
 <div id="P7"></div>
 # 7. 开放服务选择
