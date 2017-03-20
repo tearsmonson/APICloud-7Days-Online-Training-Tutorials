@@ -34,7 +34,7 @@
 	
 	3.3 相关API使用
 	
-4. **[闪屏广告](P4)**
+4. **[闪屏广告](#P4)**
 
 	4.1 在APICloud控制台使用闪屏广告
 	
@@ -42,7 +42,7 @@
 	
 	4.3 相关API使用
 	
-5. **[优化策略](P5)**
+5. **[优化策略](#P5)**
 
 	5.1 了解HTML5特性
 	
@@ -62,9 +62,9 @@
 	
 	5.9 尊重系统特性
 
-6. **[编码规范](P6)**
+6. **[编码规范](#P6)**
 
-7. **[Widget管理](P7)**
+7. **[Widget管理](#P7)**
 
 	7.1 多Widget架构
 	
@@ -74,12 +74,13 @@
 	
 	7.4 相关API使用
 	
-8. **[SuperWebview](P8)**
+8. **[SuperWebview](#P8)**
 
 	8.1 SuperWebview介绍
 	
 	8.2 SuperWebview特点
 
+<div id="P1"></div>
 #1. APICloud应用发布流程
 --
 
@@ -120,6 +121,7 @@ Config文件中对access字段的配置
 
 *推荐文档：[应用配置说明](http://docs.apicloud.com/Dev-Guide/app-config-manual)*
 
+<div id="P2"></div>
 #2. 版本管理
 --
 
@@ -137,6 +139,7 @@ Config文件中对access字段的配置
 
 - [mam模块](http://docs.apicloud.com/Client-API/Cloud-Service/mam)
 
+<div id="P3"></div>
 #3. 云修复
 --
 
@@ -158,6 +161,7 @@ Config文件中对access字段的配置
 - smartupdatefinish事件
 - api.rebootApp()方法
 
+<div id="P4"></div>
 #4. 闪屏广告
 --
 
@@ -175,6 +179,7 @@ Config文件中对access字段的配置
 
 - launchviewclicked事件
 
+<div id="P5"></div>
 #5. 优化策略
 --
 
@@ -225,11 +230,11 @@ Config文件中对access字段的配置
 - 点击区域和点击交互效果
 
 ###5.9 尊重系统特性
-- 适时更新UI，理解窗口切换和界面渲染关系
+- 适时更新UI，理解窗体切换和界面渲染关系
 - 避免body级别的背景图片，以原生的方式高效实现
 - 页面之间使用pageParam传完成轻量级参数传递，避免使用过大的参数
 
-
+<div id="P6"></div>
 #6. 编码规范
 --
 
@@ -239,6 +244,7 @@ Config文件中对access字段的配置
 - 任何文件避免使用中文命名、不用包含大写字母
 - 避免使用?进行参数传递，要使用pageParam
 
+<div id="P7"></div>
 #7. Widget管理
 --
 
@@ -273,6 +279,7 @@ Config文件中对access字段的配置
 
 *推荐视频：[初级代码篇第13讲](http://www.apicloud.com/video_play?list=2&index=13)*
 
+<div id="P8"></div>
 #8. SuperWebview
 --
 

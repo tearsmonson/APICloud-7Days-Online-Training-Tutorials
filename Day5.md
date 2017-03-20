@@ -18,28 +18,28 @@
 	3.3 生命周期
 	3.4 界面布局
 	
-4. **[自定义扩展模块](P4)**
-5. **[扩展模块使用](P5)**
+4. **[自定义扩展模块](#P4)**
+5. **[扩展模块使用](#P5)**
 
 	5.1 UI类模块常用接口
 	5.2 UI类模块使用
 	
-6. **[多媒体相关模块](P6)**
+6. **[多媒体相关模块](#P6)**
 
 	6.1 APICloud平台多媒体能力支持
 	6.2 相关API使用
 
-<div id=P1></div>
+<div id="P1"></div>
 #1. 端引擎架构
 --
 ![端引擎架构](http://docs.apicloud.com/img/docImage/seven-course/day5/5.1.png)
 
-<div id=P2></div>
+<div id="P2"></div>
 #2. 模块调用过程
 --
 ![模块调用过程](http://docs.apicloud.com/img/docImage/seven-course/day5/5.2.png)
 
-<div id=P3></div>
+<div id="P3"></div>
 #3. 模块扩展机制
 --
 ###3.1 绑定: 
@@ -54,7 +54,7 @@
 ###3.4 界面布局：
 - UI模块独立渲染，可以添加到Window或Frame中进行混合布局。
 
-<div id=P4></div>
+<div id="P4"></div>
 #4. 如何自定义扩展模块
 --
 
@@ -78,7 +78,7 @@
 
 - [官方模块源码](http://apicloud.com/source_code)
 
-<div id=P5></div>
+<div id="P5"></div>
 #5. UI类扩展模块使用
 --
 
@@ -103,7 +103,7 @@
 - [UIScrollPicture](http://docs.apicloud.com/Client-API/UI-Layout/UIScrollPicture)
 - [UIActionSelector](http://docs.apicloud.com/Client-API/UI-Layout/UIActionSelector)
 
-<div id=P6></div>
+<div id="P6"></div>
 #6. 多媒体相关模块使用
 --
 

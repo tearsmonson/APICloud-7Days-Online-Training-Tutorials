@@ -32,14 +32,14 @@
 	2.2 文件下载相关API
 	
 3. **[使用api.ajax与服务端进行数据通信](#P3)**
-4. **[按照服务端接口文档，进行APP与服务端的接口联调](P4)**
-5. **[窗口间通信机制](P5)**
+4. **[按照服务端接口文档，进行APP与服务端的接口联调](#P4)**
+5. **[窗口间通信机制](#P5)**
 
 	5.1 跨窗口调用函数
 	
 	5.2 自定义事件
 	
-6. **[常用对话框窗口使用](P6)**
+6. **[常用对话框窗口使用](#P6)**
 
 	6.1 提示对话框
 	
@@ -47,7 +47,7 @@
 	
 	6.3 选择对话框
 	
-7. **[APICloud平台事件机制](P7)**
+7. **[APICloud平台事件机制](#P7)**
 
 	7.1 全局事件管理
 	
@@ -55,7 +55,7 @@
 	
 	7.3 事件监听机制
 	
-8. **[APICloud数据云](P8)**
+8. **[APICloud数据云](#P8)**
 
 	8.1 数据云功能特点
 	
@@ -63,7 +63,7 @@
 	
 	8.3 APP中3种与数据云的通信方式
 
-<div id=P1></div>
+<div id="P1"></div>
 #1. APICloud平台提供的数据通信能力
 --
 
@@ -81,7 +81,7 @@
 - 支持标准的TCP／UDP协议
 - 封装了标准的Socket接口
 
-<div id=P2></div>
+<div id="P2"></div>
 #2. APICloud数据通信相关API
 --
 
@@ -93,7 +93,7 @@
 - 开始下载：[api.download()](http://docs.apicloud.com/Client-API/api#17)
 - 取消下载：[api.cancelDownload()](http://docs.apicloud.com/Client-API/api#8)
 
-<div id=P3></div>
+<div id="P3"></div>
 #3. api.ajax的使用
 --
 - 超时：timeout
@@ -106,7 +106,7 @@
 - 返回完整response信息：returnAll（ret.headers、ret.body，ret.statusCode）
 - 客户端证书设置：certificate
 
-<div id=P4></div>
+<div id="P4"></div>
 #4. 接口联调
 --
 
@@ -118,7 +118,7 @@ HTTP + JSON是最常用的前后端数据通信方式
 - 获取商品列表
 - 获取商品详情
 
-<div id=P5></div>
+<div id="P5"></div>
 #5. 窗口间通信机制
 --
 
@@ -130,7 +130,7 @@ HTTP + JSON是最常用的前后端数据通信方式
 
 - [api.sendEvent()](http://docs.apicloud.com/Client-API/api#72);
 
-<div id=P6></div>
+<div id="P6"></div>
 #6. 常用对话框窗口使用
 --
 
@@ -148,7 +148,7 @@ HTTP + JSON是最常用的前后端数据通信方式
 - [api.actionSheet()](http://docs.apicloud.com/Client-API/api#1)
 - [api.datePicker()](http://docs.apicloud.com/Client-API/api#29)
 
-<div id=P7></div>
+<div id="P7"></div>
 #7. APICloud平台事件机制
 --
 
@@ -199,7 +199,7 @@ HTTP + JSON是最常用的前后端数据通信方式
 - 删除监听：[api.removeEventListener()]()
 - 发送事件：[api.sentEvent()]()
 
-<div id=P8></div>
+<div id="P8"></div>
 #8. APICloud数据云
 --
 

@@ -17,11 +17,11 @@
 #主要内容
 --
 
-1. **[APICloud应用执行流程](P1)**
+1. **[APICloud应用执行流程](#P1)**
 
 	1.1 APICloud应用执行流程说明
 	
-2. **[引擎初始化后默认创建的两个UI组件实例](P2)**
+2. **[引擎初始化后默认创建的两个UI组件实例](#P2)**
 
 	2.1 主Widget容器（Main Widget）
 	
@@ -45,7 +45,7 @@
 	
 	5.2 api对象常用方法使用
 	
-6. **[屏幕适配](P6)**
+6. **[屏幕适配](#P6)**
 
 	6.1 viewport设置
 	
@@ -53,13 +53,13 @@
 	
 	6.3 量图标准
 	
-7. **[前端框架](P7)**
+7. **[前端框架](#P7)**
 
 	7.1 APICloud前端框架的作用和设计思想
 	
 	7.2 APICloud前端框架使用
 	
-8. **[状态栏处理](P8)**
+8. **[状态栏处理](#P8)**
 
 	8.1 沉浸式状态栏效果说明
 	
@@ -67,7 +67,7 @@
 	
 	8.3 修改状态栏样式
 
-9. **[界面布局相关API使用](P9)**
+9. **[界面布局相关API使用](#P9)**
 
 	9.1 Widget相关API
 
@@ -77,7 +77,7 @@
 	
 	9.4 Frame相关API
 	
-10. **[搭建APP整体框架，完成APP静态数据版本](P10)**
+10. **[搭建APP整体框架，完成APP静态数据版本](#P10)**
 
 	10.1 每个页面UI结构分析
 	
@@ -97,7 +97,7 @@
 	
 	10.9 阻止iOS滑动返回
 
-<div id=P1></div>
+<div id="P1"></div>
 #1. 理解APICloud应用执行流程
 -
 
@@ -107,7 +107,7 @@
 
 推荐视频：[APICloud视频之初级代码篇第3讲 APICloud整体介绍](http://www.apicloud.com/video_play?list=2&index=1)
 
-<div id=P2></div>
+<div id="P2"></div>
 #2. Widget中代码执行之前，由引擎默认创建的两个UI组件实例
 --
 
@@ -119,7 +119,7 @@
 
   是Window组件的一个实例，由引擎初始化完毕后自动创建，用于加载content事件所指定的HTML文件(通常为widget根目录下的index.html),Window的name固定为'root'。
 
-<div id=P3></div>
+<div id="P3"></div>
 #3. config文件解析
 --
 
@@ -133,7 +133,7 @@
 
 *推荐视频：[APICloud视频之初级代码篇第12讲 APICloud配置文件简介](http://www.apicloud.com/video_play?list=2&index=12)*
 
-<div id=P4></div>
+<div id="P4"></div>
 #4. 引擎的两个重要事件
 --
 
@@ -143,7 +143,7 @@
 ###4.2 apiready事件:
 此事件是在api对象准备完毕后产生，在每个Window或Frame的HTML代码中都需要监听此事件，以确定APICloud扩展对象已经准备完毕，可以调用了。
 
-<div id=P5></div>
+<div id="P5"></div>
 #5. api对象
 --
 
@@ -152,7 +152,7 @@ api对象是APICloud在全局作用域内唯一的一个扩展对象，api对象
 ###5.1 查看api对象功能
 ###5.2 api对象常用方法使用
 
-<div id=P6></div>
+<div id="P6"></div>
 #6. 屏幕适配
 --
 
@@ -176,7 +176,7 @@ api对象是APICloud在全局作用域内唯一的一个扩展对象，api对象
 
 *推荐文档：[屏幕适配原理及实现](http://docs.apicloud.com/Dev-Guide/screen-adapt-guide)*
 
-<div id=P7></div>
+<div id="P7"></div>
 #7. 前端框架
 --
 
@@ -192,7 +192,7 @@ api对象是APICloud在全局作用域内唯一的一个扩展对象，api对象
 
 *注意：不建议引用大的JS或CSS框架*
 
-<div id=P8></div>
+<div id="P8"></div>
 #8. 状态栏处理
 --
 
@@ -205,6 +205,7 @@ api对象是APICloud在全局作用域内唯一的一个扩展对象，api对象
   ```
   <preference name="statusBarAppearance" value="true" />
   ```
+> [沉浸式效果配置说明](http://docs.apicloud.com/Dev-Guide/app-config-manual#10)
   
 + 在Window或Frame的apiready事件后，调用[$api.fixStatusBar()](http://docs.apicloud.com/Front-end-Framework/framework-dev-guide#45)方法;
   
@@ -213,7 +214,7 @@ api对象是APICloud在全局作用域内唯一的一个扩展对象，api对象
 
 *推荐视频： [APICloud视频之初级代码篇第7讲 APICloud应用结构分析](http://www.apicloud.com/video_play?list=2&index=7)*
 
-<div id=P9></div>
+<div id="P9"></div>
 #9. 界面布局相关API
 --
 
@@ -258,7 +259,7 @@ DrawerLayout
 - [api.frameWidth](http://docs.apicloud.com/Client-API/api#a10)
 - [api.frameHeight](http://docs.apicloud.com/Client-API/api#a8)
 
-<div id=P10></div>
+<div id="P10"></div>
 #10. 搭建APP整体框架，完成APP静态数据版本
 --
 
