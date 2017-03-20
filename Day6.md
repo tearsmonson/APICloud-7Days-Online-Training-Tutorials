@@ -1,13 +1,10 @@
-<style>
-</style>
-
 ***第六天：了解如何在APICloud应用中使用第三方开放平台服务，如推送、分享、地图等；了解APICloud平台目前以支撑的第三方服务，掌握第三方模块申请和使用流程；理解自定义Loader的原理，掌握如何编译、安装和使用自定义Loader调试应用。***
 
 [第六天课程源码](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/0a92a2e3947b8563077bcca6dffeb51c.zip)
 
 教程更新：[Github地址](https://github.com/apicloudcom/APICloud-7Days-Online-Training-Tutorials/blob/master/Day6.md)
 
-#主要内容
+# 主要内容
 
 1. **[集成第三方服务](#P1)**
 
@@ -33,13 +30,13 @@
 6. **[第三方推送服务使用](#P6)**
 
 <div id="P1"></div>
-#1. 第三方服务集成
+# 1. 第三方服务集成
 
-###1.1 集成流程
+### 1.1 集成流程
 
 ![集成流程](http://docs.apicloud.com/img/docImage/seven-course/day6/6.1.png)
 
-###1.2 目前已经集成的第三方服务模块
+### 1.2 目前已经集成的第三方服务模块
 
 ![集成情况](http://docs.apicloud.com/img/docImage/seven-course/day6/6.2.png)
 
@@ -50,24 +47,24 @@
 与自定义扩展模块实现方式一样，详解自定义扩展模块相关文档和视频
 
 <div id="P2"></div>
-#2. 自定义Loader
+# 2. 自定义Loader
 AppLoader（官方或自定义）其实就是一个APP，只不过他启动后不会读区自己的Widget包中的网页代码，而是加载指定位置的网页代码。在进行调试的时候APICloud开发工具插件将测试代码同步的这个指定的位置。
 
-###2.1 原理
+### 2.1 原理
 
 ![自定义Loader](http://docs.apicloud.com/img/docImage/seven-course/day6/6.3.png)
 
-###2.2 编译
+### 2.2 编译
 
 - [网站编译入口](http://www.apicloud.com/module-loader)
 - 在工具插件中编译
 
-###2.3 安装
+### 2.3 安装
 
 - 扫码
 - USB同步
 
-###2.4 使用
+### 2.4 使用
 
 - Sublime Text
 - webStorm
@@ -81,7 +78,7 @@ AppLoader（官方或自定义）其实就是一个APP，只不过他启动后�
 *推荐视频：[初级代码篇第9－10讲](http://apicloud.com/video_play?list=2&index=9)*
 
 <div id="P3"></div>
-#3. 第三方服务模块使用流程
+# 3. 第三方服务模块使用流程
 
 - 第一步：到第三方服务开放平台申请相关Id和Key
 - 第二步：在APICloud应用的Config文件中配置相关Id和Key
@@ -90,7 +87,7 @@ AppLoader（官方或自定义）其实就是一个APP，只不过他启动后�
 - 第五步：在应用代码中require相关模块，并调用API
 
 <div id="P4"></div>
-#4. 地图
+# 4. 地图
 
 百度地图模块
 
@@ -117,7 +114,7 @@ AppLoader（官方或自定义）其实就是一个APP，只不过他启动后�
 [百度开放平台接入指南](http://docs.apicloud.com/Others/Open-SDK-Integration-Guide/baidu)
 
 <div id="P5"></div>
-#5. 分享和登录
+# 5. 分享和登录
 
 微信模块
 
@@ -159,7 +156,7 @@ AppLoader（官方或自定义）其实就是一个APP，只不过他启动后�
 [初级代码篇第9－10讲](http://apicloud.com/video_play?list=2&index=9)
 
 <div id="P6"></div>
-#6. 推送：
+# 6. 推送：
 
 个推模块
 

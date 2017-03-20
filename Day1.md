@@ -6,14 +6,14 @@
 
 教程更新：[Github地址](https://github.com/apicloudcom/APICloud-7Days-Online-Training-Tutorials/blob/master/Day1.md)
 
-#学习目标
+# 学习目标
 --
 - 总体上了解一下APICloud平台，重点介绍相关的学习资源，入门资料，常见的FAQ等
 - 明确我们这七天要开发一个什么样的APP，明确功能需求，跟上每天的课程节奏，可以课前预习
 - 梳理出对于一款APP，在开发之前（Coding之前），一些通用而又重要的准备工作，适合于所有APP开发，而非单指APICloud
 
 
-#主要内容
+# 主要内容
 --
 
 1. **[APICloud平台介绍](#P1)**
@@ -93,10 +93,10 @@
 	9.3 申请开放平台相关Key
 
 <div id="P1"></div>
-#1. 了解APICloud平台
+# 1. 了解APICloud平台
 --
 
-###1.1 查看APICloud平台能力
+### 1.1 查看APICloud平台能力
 > 要使用APICloud平台开发APP，很多用户的第一个问题是：APICloud平台能否满足自己的APP开发需求? 
 > 
 > 可以带着目的来了解APICloud平台能力，掌握如何快速查找相关的能力
@@ -108,7 +108,7 @@ APICloud平台功能体系:
 
   ![APICloud扩展能力](http://docs.apicloud.com/img/docImage/seven-course/day1/1.1.png)
   
-###1.2 APICloud应用的开发模式和使用的技术语言
+### 1.2 APICloud应用的开发模式和使用的技术语言
 
 > 使用APICloud开发APP需要什么技术? 自己的团队是否适合?
 > 
@@ -153,7 +153,7 @@ APICloud平台定位：
 
   ![APICloud平台定位](http://docs.apicloud.com/img/docImage/seven-course/day1/1.4.png)
   
-###1.3 APICloud技术、产品、生态、案例、商业模式的总体介绍
+### 1.3 APICloud技术、产品、生态、案例、商业模式的总体介绍
 
 > 从整体各个方面来看APICloud怎么样？
 > 
@@ -161,7 +161,7 @@ APICloud平台定位：
 
 *推荐视频：[APICloud视频之初级代码篇第1-3讲](http://www.apicloud.com/video_list)*
 
-###1.4 了解APICloud开发者相关的服务支撑体系
+### 1.4 了解APICloud开发者相关的服务支撑体系
 > 如何解决开发者的问题？能为开发者提供哪些机会？是否有围绕开发者的生态模式？
 > 
 > 是否有一个完善的开发者相关支持服务体系来方便技术学习和社区交流？
@@ -179,7 +179,7 @@ APICloud平台定位：
   + [模版Store](http://app.apicloud.com/appCustom)
   + [应用定制服务](http://app.apicloud.com/customIntroduce)
 
-###1.5 新手应该如何开始入门APICloud应用开发
+### 1.5 新手应该如何开始入门APICloud应用开发
 > 如何能快速入门？
 > 最好的学习资料来哪？
   + [新手开发指南](http://docs.apicloud.com/APICloud/junior-develop-guide)
@@ -188,10 +188,10 @@ APICloud平台定位：
   + [线上培训](http://www.apicloud.com/vipservice/course)
   
 <div id="P2"></div>
-#2. 掌握APICloud平台使用（最基本）
+# 2. 掌握APICloud平台使用（最基本）
 --
 
-###2.1 [掌握APICloud控制台使用](https://www.apicloud.com/console)
+### 2.1 [掌握APICloud控制台使用](https://www.apicloud.com/console)
 APICloud应用开发的基本流程
   + 创建应用
   + 配置图标启动页
@@ -202,7 +202,7 @@ APICloud应用开发的基本流程
 
 *推荐视频：[APICloud视频之初级代码篇第5讲](http://www.apicloud.com/video_list)*
 
-###2.2 [选定一款主流前端编码工具并安装相应的APICloud插件](https://www.apicloud.com/devtools)
+### 2.2 [选定一款主流前端编码工具并安装相应的APICloud插件](https://www.apicloud.com/devtools)
 
 APICloud应用编码调试原理：
 
@@ -250,7 +250,7 @@ APICloud CLI工具
 
 *推荐文档：[APICloud 开发工具核心库](http://docs.apicloud.com/Dev-Tools/apicloud-tools-core)*
 
-###2.3 APICloud应用开发的基础操作流程
+### 2.3 APICloud应用开发的基础操作流程
 
 ![基础开发流程](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/63253d6d0006c251ebb45ac9849b2888.png)
 
@@ -261,37 +261,37 @@ APICloud CLI工具
 - 云编译正式包
 
 <div id="P3"></div>
-#3. 应用需求分析
+# 3. 应用需求分析
 --
 
-###3.1 梳理需求
+### 3.1 梳理需求
 
 *输出需求说明文档： [requirement-spec.xml](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/3df056696e3156d08cbaeed4aed1c42c.xlsx)*
 
-###3.2 进行UE/UI设计
+### 3.2 进行UE/UI设计
 
 *输出UE/UI设计： 产品原型文件、原始UI设计图、UI切图*
 
 <div id="P4"></div>
-#4. 整体架构设计
+# 4. 整体架构设计
 --
 
-###4.1 理解APICloud应用设计思想
+### 4.1 理解APICloud应用设计思想
 Client/Cloud架构设计，完整的前后端分离，在移动端实现界面和功能，在服务端提供数据和服务。
 
 ![APICloud应用架构设计](http://docs.apicloud.com/img/docImage/seven-course/day1/1.6.png)
 
 <div id="P5"></div>
-#5. UI架构设计
+# 5. UI架构设计
 --
 
 *使用APICloud界面布局5大组件进行UI架构设计*
 
-###5.1 APICloud应用的UI组成结构
+### 5.1 APICloud应用的UI组成结构
 
 ![图片说明](http://docs.apicloud.com/img/docImage/seven-course/day1/1.7.png)
 
-###5.2 APICloud界面布局5大组件
+### 5.2 APICloud界面布局5大组件
 - Widget: Widget是APICloud应用运行管理的最小单位，每一个APICloud应用至少包含一个Widget，每一个Widget都具有独立的代码、资源和窗口系统，Widget之间可以相互调用。Widget在UI上表现为一个独立的窗口容器，内部可以包含Layout、Window或UIModule，并且同一时刻，应用中只能有一个Widget在界面上显示。
 
   * 打开Widget:&nbsp;[api.openWidget()](http://docs.apicloud.com/Client-API/api#32)
@@ -312,7 +312,7 @@ Client/Cloud架构设计，完整的前后端分离，在移动端实现界面�
   * 打开UIModule(以UIScrollPicture为例)(:&nbsp;[UIScrollPicture.open()](http://docs.apicloud.com/Client-API/UI-Layout/UIScrollPicture#m1)
   * 关闭UIModule(以UIScrollPicture为例)(:&nbsp;[UIScrollPicture.close()](http://docs.apicloud.com/Client-API/UI-Layout/UIScrollPicture#m2)
 
-###5.3 理解APICloud混合渲染技术原理
+### 5.3 理解APICloud混合渲染技术原理
 浏览器的页面渲染机制：
 
 ![图片说明](http://docs.apicloud.com/img/docImage/seven-course/day1/1.8.png)
@@ -321,18 +321,18 @@ APICloud混合渲染机制：
 
 ![图片说明](http://docs.apicloud.com/img/docImage/seven-course/day1/1.9.png)
 
-###5.4 使用APICloud5大UI组件完成应用UI架构设计
+### 5.4 使用APICloud5大UI组件完成应用UI架构设计
 
 根据产品原型和UI设计图，按界面逐个分析。
 
 > *编写一个小的界面布局的测试[Demo](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/14839882e62a7c7c200eabdfe4729ff0.zip)。。。*
 
-###5.5 输出APP的UI架构设计文档
+### 5.5 输出APP的UI架构设计文档
 
 UI架构设计文档：[ui-architecture.xmind](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/5314e37fd76105e2bf70d0bf964db340.xmind)
 
 <div id="P6"></div>
-#6. 功能点分解
+# 6. 功能点分解
 --
 
 ###6.1 基于需求说明，梳理出主要功能点
@@ -341,30 +341,30 @@ UI架构设计文档：[ui-architecture.xmind](http://7xy8na.com1.z0.glb.clouddn
 ###6.4 输出APP的功能模块分解文档：[function-modules.xmind](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/2966eb9edaa13ccd7b37fe4e57512be9.xmind)
 
 <div id="P7"></div>
-#7. 开放服务选择
+# 7. 开放服务选择
 --
 
-###7.1 基于需求说明，梳理出需要使用的开放服务
-###7.2 调研不同的开放服务商所提供的服务是否能满足自己应用的需求
-###7.3 在APICloud聚会API找到对应的开放服务模块
-###7.4 输出APP的开放服务分解文档：[service-modules.xmind](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/e7db23fc8e152992c65c8cee53b2dc94.xmind)
+### 7.1 基于需求说明，梳理出需要使用的开放服务
+### 7.2 调研不同的开放服务商所提供的服务是否能满足自己应用的需求
+### 7.3 在APICloud聚会API找到对应的开放服务模块
+### 7.4 输出APP的开放服务分解文档：[service-modules.xmind](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/e7db23fc8e152992c65c8cee53b2dc94.xmind)
 
 <div id="P8"></div>
-#8. 数据接口定义
+# 8. 数据接口定义
 --
 
 APICloud应用架构是Client＋Cloud架构，终端实现UI布局和功能，云端提供数据和服务。开发APICloud应用，与服务器端程序的实现方式和开发语言没有任何关系。
 
 **可以选择使用APICloud数据云，也可以自己来开发服务端接口**
 
-###8.1 定义输出服务端接口文档：[server-api.pdf](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/7cb2dd66607d91cd7957d548b4e7c1e6.pdf)
-###8.2 输出服务端接口调试文件：[server-api.postman_collection](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/99d3e5fb1adff0f0cca6908db45a7969.postman_collection)
+### 8.1 定义输出服务端接口文档：[server-api.pdf](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/7cb2dd66607d91cd7957d548b4e7c1e6.pdf)
+### 8.2 输出服务端接口调试文件：[server-api.postman_collection](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/99d3e5fb1adff0f0cca6908db45a7969.postman_collection)
 
 <div id="P9"></div>
-#9. 应用证书和第三方Key申请
+# 9. 应用证书和第三方Key申请
 --
 
-###9.1 申请应用证书
+### 9.1 申请应用证书
 
 - Android：xxx.keystore文件（例如：sxo2o.keystore）
 - iOS：xxx.p12文件、xxx.mobileprovision文件（例如：sxo2o.p12、sxo2o.mobileprovision）
@@ -376,14 +376,14 @@ APICloud应用架构是Client＋Cloud架构，终端实现UI布局和功能，�
 [苹果证书帮助文档](http://docs.apicloud.com/Dev-Guide/iOS-License-Application-Guidance)
 
 	 
-###9.2 确定应用包名
+### 9.2 确定应用包名
 
 - Android：com.company.app（例如：com.apicloud.sxo2o）
 
 - iOS：com.company.app（例如：com.apicloud.sxo2o）
 
 	
-###9.3 申请开放平台相关Key
+### 9.3 申请开放平台相关Key
 
 - 百度地图
 ```

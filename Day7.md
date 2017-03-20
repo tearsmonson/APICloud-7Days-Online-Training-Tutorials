@@ -7,7 +7,7 @@
 
 教程更新：[Github地址](https://github.com/apicloudcom/APICloud-7Days-Online-Training-Tutorials/blob/master/Day7.md)
 
-#主要内容
+# 主要内容
 --
 
 1. **[应用发布](#P1)**
@@ -81,14 +81,14 @@
 	8.2 SuperWebview特点
 
 <div id="P1"></div>
-#1. APICloud应用发布流程
+# 1. APICloud应用发布流程
 --
 
-###1.1 云编译
+### 1.1 云编译
 
 ![应用发布流程](http://docs.apicloud.com/img/docImage/seven-course/day7/7.1.png)
 
-###1.2 代码全包加密
+### 1.2 代码全包加密
 
 - 网页全包加密
 
@@ -122,95 +122,95 @@ Config文件中对access字段的配置
 *推荐文档：[应用配置说明](http://docs.apicloud.com/Dev-Guide/app-config-manual)*
 
 <div id="P2"></div>
-#2. 版本管理
+# 2. 版本管理
 --
 
-###2.1 在APICloud控制台管理版本
+### 2.1 在APICloud控制台管理版本
 
 *推荐文档：[本版管理使用说明](http://docs.apicloud.com/Dev-Guide/version_update)*
 
-###2.2 Config文件相关配置
+### 2.2 Config文件相关配置
 
 ```
 <preference name="autoUpdate" value="true" />
 ```
 
-###2.3 相关API使用
+### 2.3 相关API使用
 
 - [mam模块](http://docs.apicloud.com/Client-API/Cloud-Service/mam)
 
 <div id="P3"></div>
-#3. 云修复
+# 3. 云修复
 --
 
 ![云修复](http://docs.apicloud.com/img/docImage/seven-course/day7/7.2.png)
 
-###3.1 在APICloud控制台进行云修复（应用内热更新）
+### 3.1 在APICloud控制台进行云修复（应用内热更新）
 
 *推荐文档：[云修复使用说明](http://docs.apicloud.com/Dev-Guide/smartUpdate)*
 
-###3.2 Config文件相关配置
+### 3.2 Config文件相关配置
 
 ```
 <preference name="autoUpdate" value="true" />
 <preference name="smartUpdate" value="false" />
 ```
 
-###3.3 相关API使用
+### 3.3 相关API使用
 
 - smartupdatefinish事件
 - api.rebootApp()方法
 
 <div id="P4"></div>
-#4. 闪屏广告
+# 4. 闪屏广告
 --
 
-###4.1 在APICloud控制台使用闪屏广告
+### 4.1 在APICloud控制台使用闪屏广告
 
 *推荐文档：[闪屏广告使用说明](http://docs.apicloud.com/Dev-Guide/start-page-ad-guid)*
 
-###4.2 Config文件相关配置
+### 4.2 Config文件相关配置
 
 ```
 <preference name="autoUpdate" value="true" />
 ```
 
-###4.3 相关API使用
+### 4.3 相关API使用
 
 - launchviewclicked事件
 
 <div id="P5"></div>
-#5. 优化策略
+# 5. 优化策略
 --
 
-###5.1 了解HTML5特性
+### 5.1 了解HTML5特性
 - 去掉浏览器默认样式
 - 可点击区域使用div
 - 使用语义化的标签
 - 发挥HTML5和CSS3的新特性
 
-###5.2 窗口结构
+### 5.2 窗口结构
 - Window + Frame 结构
 - Frame的高度计算
 - 按需求优先使用Layout
 
-###5.3 页面加载速度
+### 5.3 页面加载速度
 - HTML、CSS、JS代码写在同一个页面中
 - 公用的CSS、JS尽量少和小，不要随意加载无用的CSS或JS文件
 - 尽量减少过多的link或script标签
 
-###5.4 不用重型框架
+### 5.4 不用重型框架
 - 避免使用jQuery或BootStrap等重型的框架
 - 摆脱对$的依赖，培养自己动手的习惯
 - 使用Mobile First，功能独立的框架
 
-###5.5 屏幕适配
+### 5.5 屏幕适配
 - Viewport
 - UI尺寸
 - 量图标准
 - 布局方式（弹性响应式＋流式）
 
-###5.6 数据加载
+### 5.6 数据加载
 - 掌握api.ajax所有参数配置作用，按需求配置使用
 - 监听网络状态
 - 合理处理异常信息
@@ -218,24 +218,24 @@ Config文件中对access字段的配置
 - JS模版
 - 数据缓存
 
-###5.7 图片处理
+### 5.7 图片处理
 - 减少内存占用
 - 减少图片缩放等耗性能的操作
 - 在服务区端或使用第三方存储服务来处理图片
 
-###5.8 交互响应速度
+### 5.8 交互响应速度
 - click事件速度优化
 - 使用平台扩展手势事件
 - 使用api.parseTapmode进行主动tapmode处理
 - 点击区域和点击交互效果
 
-###5.9 尊重系统特性
+### 5.9 尊重系统特性
 - 适时更新UI，理解窗体切换和界面渲染关系
 - 避免body级别的背景图片，以原生的方式高效实现
 - 页面之间使用pageParam传完成轻量级参数传递，避免使用过大的参数
 
 <div id="P6"></div>
-#6. 编码规范
+# 6. 编码规范
 --
 
 - 遵循[APICloud Widget包结构](http://docs.apicloud.com/Dev-Guide/widget-package-structure-manual)来组成应用代码
@@ -245,10 +245,10 @@ Config文件中对access字段的配置
 - 避免使用?进行参数传递，要使用pageParam
 
 <div id="P7"></div>
-#7. Widget管理
+# 7. Widget管理
 --
 
-###7.1 多Widget架构
+### 7.1 多Widget架构
 ![应用组成结构](http://docs.apicloud.com/img/docImage/seven-course/day7/7.3.png)
 
 - 通过ID对Widget进行管理
@@ -258,19 +258,19 @@ Config文件中对access字段的配置
 - 按作用分为主Widget和子Widget
 - Widget之间可以相互调用
 
-###7.2 主Widget
+### 7.2 主Widget
 - 加载机制：是应用的入口Widget，应用启动之后首先自动加载运行主Widget
 - 生命周期：等于整个应用的生命周期，关闭主Widget就会退出应用
 - 配置文件：作为应用的配置文件，在云端编译应用的时候使用
 - 代码位置：编译后存在于应用的安装包中，即ipa或apk包中
 
-###7.3 子Widget
+### 7.3 子Widget
 - 加载机制：不会被应用自动加载运行，需要被其他的Widget调用才能运行
 - 生命周期：从api.openWidget开始，到api.closeWidget结束
 - 配置文件：对引擎和云端设置的配置项无效，其他的配置项有效
 - 代码位置：可以存在于应用的安装包中，也可以存在于应用沙箱中
 
-###7.4 相关API使用
+### 7.4 相关API使用
 - 打开子Widget：api.openWidget
 - 关闭子Widget：api.closeWidget
 - 获取参数：api.wgtParam
@@ -280,13 +280,13 @@ Config文件中对access字段的配置
 *推荐视频：[初级代码篇第13讲](http://www.apicloud.com/video_play?list=2&index=13)*
 
 <div id="P8"></div>
-#8. SuperWebview
+# 8. SuperWebview
 --
 
-###8.1 SuperWebview介绍
+### 8.1 SuperWebview介绍
 SuperWebView是APICloud一款重要的端引擎产品，致力于解决系统WebView功能弱、体验差等问题，加速H5与Native的融合。SuperWebView以SDK的方式提供，原生应用嵌入SuperWebView替代系统WebView，即可在H5代码中使用APICloud平台的所有端API和云服务。
 
-###8.2 SuperWebview特点
+### 8.2 SuperWebview特点
 
 - 以SDK的方式提供，嵌入到原生工程中使用；
 - 为每个应用动态编译生成专属的SuperWebView；
