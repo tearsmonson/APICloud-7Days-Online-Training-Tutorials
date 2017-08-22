@@ -6,7 +6,7 @@
 
 教程更新：[Github地址](https://github.com/apicloudcom/APICloud-7Days-Online-Training-Tutorials/blob/master/Day1.md)
 
-# 学习目标[>>查看课程的视频讲解](http://apicloudspace.b0.upaiyun.com/video-seven1/1.1%E8%AF%BE%E7%A8%8B%E4%BB%8B%E7%BB%8D%EF%BC%8B%E7%AC%AC%E4%B8%80%E5%A4%A9%E5%AD%A6%E4%B9%A0%E7%9B%AE%E6%A0%87.mp4)
+# 学习目标[>>查看配套的视频讲解](http://apicloudspace.b0.upaiyun.com/video-seven1/1.1%E8%AF%BE%E7%A8%8B%E4%BB%8B%E7%BB%8D%EF%BC%8B%E7%AC%AC%E4%B8%80%E5%A4%A9%E5%AD%A6%E4%B9%A0%E7%9B%AE%E6%A0%87.mp4)
 
 - 总体上了解一下APICloud平台，重点介绍相关的学习资源，入门资料，常见的FAQ等
 - 明确我们这七天要开发一个什么样的APP，明确功能需求，跟上每天的课程节奏，可以课前预习
@@ -95,7 +95,7 @@
 
 # 1. 了解APICloud平台
 
-### 1.1 查看APICloud平台能力 [>>查看课程的视频讲解](http://apicloudspace.b0.upaiyun.com/video-seven1/1.2%20%E6%9F%A5%E7%9C%8BAPICloud%E5%B9%B3%E5%8F%B0%E8%83%BD%E5%8A%9B.mp4)
+### 1.1 查看APICloud平台能力 [>>查看配套的视频讲解](http://apicloudspace.b0.upaiyun.com/video-seven1/1.2%20%E6%9F%A5%E7%9C%8BAPICloud%E5%B9%B3%E5%8F%B0%E8%83%BD%E5%8A%9B.mp4)
 > 要使用APICloud平台开发APP，很多用户的第一个问题是：APICloud平台能否满足自己的APP开发需求? 
 > 
 > 可以带着目的来了解APICloud平台能力，掌握如何快速查找相关的能力
@@ -107,7 +107,7 @@ APICloud平台功能体系:
 
   ![APICloud扩展能力](http://docs.apicloud.com/img/docImage/seven-course/day1/1.1.png)
   
-### 1.2 APICloud应用的开发模式和使用的技术语言[>>查看课程的视频讲解](http://apicloudspace.b0.upaiyun.com/video-seven1/1.3%20%E5%BC%80%E5%8F%91%E6%A8%A1%E5%BC%8F%2B%E6%8A%80%E6%9C%AF%E8%AF%AD%E8%A8%80%2B%E5%B9%B3%E5%8F%B0%E5%AE%9A%E4%BD%8D.mp4)
+### 1.2 APICloud应用的开发模式和使用的技术语言[>>查看配套的视频讲解](http://apicloudspace.b0.upaiyun.com/video-seven1/1.3%20%E5%BC%80%E5%8F%91%E6%A8%A1%E5%BC%8F%2B%E6%8A%80%E6%9C%AF%E8%AF%AD%E8%A8%80%2B%E5%B9%B3%E5%8F%B0%E5%AE%9A%E4%BD%8D.mp4)
 
 > 使用APICloud开发APP需要什么技术? 自己的团队是否适合?
 > 
@@ -152,7 +152,7 @@ APICloud平台定位：
 
   ![APICloud平台定位](http://docs.apicloud.com/img/docImage/seven-course/day1/1.4.png)
   
-### 1.3 APICloud技术、产品、生态、案例、商业模式的总体介绍[>>查看课程的视频讲解](http://apicloudspace.b0.upaiyun.com/video-seven1/1.4%20%E6%96%B9%E6%96%B9%E9%9D%A2%E9%9D%A2%E6%95%B4%E4%BD%93%E4%BB%8B%E7%BB%8D.mp4)
+### 1.3 APICloud技术、产品、生态、案例、商业模式的总体介绍[>>查看配套的视频讲解](http://apicloudspace.b0.upaiyun.com/video-seven1/1.4%20%E6%96%B9%E6%96%B9%E9%9D%A2%E9%9D%A2%E6%95%B4%E4%BD%93%E4%BB%8B%E7%BB%8D.mp4)
 
 > 从整体各个方面来看APICloud怎么样？
 > 
@@ -160,7 +160,7 @@ APICloud平台定位：
 
 *推荐视频：[APICloud视频之初级代码篇第1-3讲](http://www.apicloud.com/video_list)*
 
-### 1.4 了解APICloud开发者相关的服务支撑体系[>>查看课程的视频讲解](http://apicloudspace.b0.upaiyun.com/video-seven1/1.5%20%E5%BC%80%E5%8F%91%E8%80%85%E6%9C%8D%E5%8A%A1%E4%BD%93%E7%B3%BB.mp4)
+### 1.4 了解APICloud开发者相关的服务支撑体系[>>查看配套的视频讲解](http://apicloudspace.b0.upaiyun.com/video-seven1/1.5%20%E5%BC%80%E5%8F%91%E8%80%85%E6%9C%8D%E5%8A%A1%E4%BD%93%E7%B3%BB.mp4)
 > 如何解决开发者的问题？能为开发者提供哪些机会？是否有围绕开发者的生态模式？
 > 
 > 是否有一个完善的开发者相关支持服务体系来方便技术学习和社区交流？
@@ -178,7 +178,7 @@ APICloud平台定位：
   + [模版Store](http://app.apicloud.com/appCustom)
   + [应用定制服务](http://app.apicloud.com/customIntroduce)
 
-### 1.5 新手应该如何开始入门APICloud应用开发[>>查看课程的视频讲解](http://apicloudspace.b0.upaiyun.com/video-seven1/1.6%20%E6%96%B0%E6%89%8B%E5%A6%82%E4%BD%95%E5%85%A5%E9%97%A8.mp4)
+### 1.5 新手应该如何开始入门APICloud应用开发[>>查看配套的视频讲解](http://apicloudspace.b0.upaiyun.com/video-seven1/1.6%20%E6%96%B0%E6%89%8B%E5%A6%82%E4%BD%95%E5%85%A5%E9%97%A8.mp4)
 > 如何能快速入门？
 > 最好的学习资料来哪？
   + [新手开发指南](http://docs.apicloud.com/APICloud/junior-develop-guide)
@@ -190,7 +190,7 @@ APICloud平台定位：
 
 # 2. 掌握APICloud平台使用（最基本）
 
-### 2.1 [掌握APICloud控制台使用](https://www.apicloud.com/console)[>>查看课程的视频讲解](http://apicloudspace.b0.upaiyun.com/video-seven1/2.1%20%E6%8E%A7%E5%88%B6%E5%8F%B0%E4%BD%BF%E7%94%A8.mp4)
+### 2.1 [掌握APICloud控制台使用](https://www.apicloud.com/console)[>>查看配套的视频讲解](http://apicloudspace.b0.upaiyun.com/video-seven1/2.1%20%E6%8E%A7%E5%88%B6%E5%8F%B0%E4%BD%BF%E7%94%A8.mp4)
 APICloud应用开发的基本流程
   + 创建应用
   + 配置图标启动页
@@ -201,7 +201,7 @@ APICloud应用开发的基本流程
 
 *推荐视频：[APICloud视频之初级代码篇第5讲](http://www.apicloud.com/video_list)*
 
-### 2.2 [选定一款主流前端编码工具并安装相应的APICloud插件](https://www.apicloud.com/devtools)[>>查看课程的视频讲解](http://apicloudspace.b0.upaiyun.com/video-seven1/2.2%20%E9%80%89%E6%8B%A9%E4%B8%80%E6%AC%BE%E7%BC%96%E7%A0%81%E5%B7%A5%E5%85%B7.mp4)
+### 2.2 [选定一款主流前端编码工具并安装相应的APICloud插件](https://www.apicloud.com/devtools)[>>查看配套的视频讲解](http://apicloudspace.b0.upaiyun.com/video-seven1/2.2%20%E9%80%89%E6%8B%A9%E4%B8%80%E6%AC%BE%E7%BC%96%E7%A0%81%E5%B7%A5%E5%85%B7.mp4)
 
 APICloud应用编码调试原理：
 
@@ -249,7 +249,7 @@ APICloud CLI工具
 
 *推荐文档：[APICloud 开发工具核心库](http://docs.apicloud.com/Dev-Tools/apicloud-tools-core)*
 
-### 2.3 APICloud应用开发的基础操作流程[>>查看课程的视频讲解](http://apicloudspace.b0.upaiyun.com/video-seven1/2.3%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%9F%BA%E6%9C%AC%E6%B5%81%E7%A8%8B.mp4)
+### 2.3 APICloud应用开发的基础操作流程[>>查看配套的视频讲解](http://apicloudspace.b0.upaiyun.com/video-seven1/2.3%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%9F%BA%E6%9C%AC%E6%B5%81%E7%A8%8B.mp4)
 
 ![基础开发流程](http://7xy8na.com1.z0.glb.clouddn.com/apicloud/63253d6d0006c251ebb45ac9849b2888.png)
 
@@ -261,7 +261,7 @@ APICloud CLI工具
 
 <div id="P3"></div>
 
-# 3. 应用需求分析[>>查看课程的视频讲解](http://apicloudspace.b0.upaiyun.com/video-seven1/3.%20%E9%9C%80%E6%B1%82%E6%A2%B3%E7%90%86.mp4)
+# 3. 应用需求分析[>>查看配套的视频讲解](http://apicloudspace.b0.upaiyun.com/video-seven1/3.%20%E9%9C%80%E6%B1%82%E6%A2%B3%E7%90%86.mp4)
 
 
 ### 3.1 梳理需求
@@ -276,14 +276,14 @@ APICloud CLI工具
 
 # 4. 整体架构设计
 
-### 4.1 理解APICloud应用设计思想[>>查看课程的视频讲解](http://apicloudspace.b0.upaiyun.com/video-seven1/4.%20%E7%90%86%E8%A7%A3%E5%89%8D%E5%90%8E%E7%AB%AF%E5%88%86%E7%A6%BB%E7%9A%84APP%E6%9E%B6%E6%9E%84.mp4)
+### 4.1 理解APICloud应用设计思想[>>查看配套的视频讲解](http://apicloudspace.b0.upaiyun.com/video-seven1/4.%20%E7%90%86%E8%A7%A3%E5%89%8D%E5%90%8E%E7%AB%AF%E5%88%86%E7%A6%BB%E7%9A%84APP%E6%9E%B6%E6%9E%84.mp4)
 Client/Cloud架构设计，完整的前后端分离，在移动端实现界面和功能，在服务端提供数据和服务。
 
 ![APICloud应用架构设计](http://docs.apicloud.com/img/docImage/seven-course/day1/1.6.png)
 
 <div id="P5"></div>
 
-# 5. UI架构设计[>>查看课程的视频讲解]http://apicloudspace.b0.upaiyun.com/video-seven1/5.1%265.2%20APICloud%E7%95%8C%E9%9D%A2%E5%B8%83%E5%B1%80%E4%BA%94%E5%A4%A7%E7%BB%84%E4%BB%B6.mp4)
+# 5. UI架构设计[>>查看配套的视频讲解]http://apicloudspace.b0.upaiyun.com/video-seven1/5.1%265.2%20APICloud%E7%95%8C%E9%9D%A2%E5%B8%83%E5%B1%80%E4%BA%94%E5%A4%A7%E7%BB%84%E4%BB%B6.mp4)
 
 *使用APICloud界面布局5大组件进行UI架构设计*
 
@@ -312,7 +312,7 @@ Client/Cloud架构设计，完整的前后端分离，在移动端实现界面�
   * 打开UIModule(以UIScrollPicture为例)(:&nbsp;[UIScrollPicture.open()](http://docs.apicloud.com/Client-API/UI-Layout/UIScrollPicture#m1)
   * 关闭UIModule(以UIScrollPicture为例)(:&nbsp;[UIScrollPicture.close()](http://docs.apicloud.com/Client-API/UI-Layout/UIScrollPicture#m2)
 
-### 5.3 理解APICloud混合渲染技术原理[>>查看课程的视频讲解](http://apicloudspace.b0.upaiyun.com/video-seven1/5.3%20APICloud%E6%B7%B7%E5%90%88%E6%B8%B2%E6%9F%93%E6%A8%A1%E5%BC%8F.mp4)
+### 5.3 理解APICloud混合渲染技术原理[>>查看配套的视频讲解](http://apicloudspace.b0.upaiyun.com/video-seven1/5.3%20APICloud%E6%B7%B7%E5%90%88%E6%B8%B2%E6%9F%93%E6%A8%A1%E5%BC%8F.mp4)
 浏览器的页面渲染机制：
 
 ![图片说明](http://docs.apicloud.com/img/docImage/seven-course/day1/1.8.png)
@@ -321,7 +321,7 @@ APICloud混合渲染机制：
 
 ![图片说明](http://docs.apicloud.com/img/docImage/seven-course/day1/1.9.png)
 
-### 5.4 使用APICloud5大UI组件完成应用UI架构设计[>>查看课程的视频讲解](http://apicloudspace.b0.upaiyun.com/video-seven1/5.4%265.5%20%E5%A6%82%E4%BD%95%E8%BF%9B%E8%A1%8CUI%E7%95%8C%E9%9D%A2%E7%9A%84%E7%BB%93%E6%9E%84%E5%88%86%E8%A7%A3.mp4)
+### 5.4 使用APICloud5大UI组件完成应用UI架构设计[>>查看配套的视频讲解](http://apicloudspace.b0.upaiyun.com/video-seven1/5.4%265.5%20%E5%A6%82%E4%BD%95%E8%BF%9B%E8%A1%8CUI%E7%95%8C%E9%9D%A2%E7%9A%84%E7%BB%93%E6%9E%84%E5%88%86%E8%A7%A3.mp4)
 
 根据产品原型和UI设计图，按界面逐个分析。
 
@@ -333,7 +333,7 @@ UI架构设计文档：[ui-architecture.xmind](http://7xy8na.com1.z0.glb.clouddn
 
 <div id="P6"></div>
 
-# 6. 功能点分解[>>查看课程的视频讲解](http://apicloudspace.b0.upaiyun.com/video-seven1/6.%20%E5%8A%9F%E8%83%BD%E5%88%86%E8%A7%A3.mp4)
+# 6. 功能点分解[>>查看配套的视频讲解](http://apicloudspace.b0.upaiyun.com/video-seven1/6.%20%E5%8A%9F%E8%83%BD%E5%88%86%E8%A7%A3.mp4)
 
 ### 6.1 基于需求说明，梳理出主要功能点
 ### 6.2 为每个功能点，给出合适的技术实现方案
@@ -342,7 +342,7 @@ UI架构设计文档：[ui-architecture.xmind](http://7xy8na.com1.z0.glb.clouddn
 
 <div id="P7"></div>
 
-# 7. 开放服务选择[>>查看课程的视频讲解](http://apicloudspace.b0.upaiyun.com/video-seven1/7.%20%E9%80%89%E6%8B%A9%E5%BC%80%E6%94%BE%E6%9C%8D%E5%8A%A1.mp4)
+# 7. 开放服务选择[>>查看配套的视频讲解](http://apicloudspace.b0.upaiyun.com/video-seven1/7.%20%E9%80%89%E6%8B%A9%E5%BC%80%E6%94%BE%E6%9C%8D%E5%8A%A1.mp4)
 
 ### 7.1 基于需求说明，梳理出需要使用的开放服务
 ### 7.2 调研不同的开放服务商所提供的服务是否能满足自己应用的需求
@@ -351,7 +351,7 @@ UI架构设计文档：[ui-architecture.xmind](http://7xy8na.com1.z0.glb.clouddn
 
 <div id="P8"></div>
 
-# 8. 数据接口定义[>>查看课程的视频讲解](http://apicloudspace.b0.upaiyun.com/video-seven1/8.%20%E6%95%B0%E6%8D%AE%E6%8E%A5%E5%8F%A3%E5%AE%9A%E4%B9%89.mp4)
+# 8. 数据接口定义[>>查看配套的视频讲解](http://apicloudspace.b0.upaiyun.com/video-seven1/8.%20%E6%95%B0%E6%8D%AE%E6%8E%A5%E5%8F%A3%E5%AE%9A%E4%B9%89.mp4)
 
 APICloud应用架构是Client＋Cloud架构，终端实现UI布局和功能，云端提供数据和服务。开发APICloud应用，与服务器端程序的实现方式和开发语言没有任何关系。
 
@@ -362,7 +362,7 @@ APICloud应用架构是Client＋Cloud架构，终端实现UI布局和功能，�
 
 <div id="P9"></div>
 
-# 9. 应用证书和第三方Key申请[>>查看课程的视频讲解](http://apicloudspace.b0.upaiyun.com/video-seven1/9.%20%E5%BA%94%E7%94%A8%E8%AF%81%E4%B9%A6%26%E7%AC%AC%E4%B8%89%E6%96%B9Key%E7%94%B3%E8%AF%B7.mp4)
+# 9. 应用证书和第三方Key申请[>>查看配套的视频讲解](http://apicloudspace.b0.upaiyun.com/video-seven1/9.%20%E5%BA%94%E7%94%A8%E8%AF%81%E4%B9%A6%26%E7%AC%AC%E4%B8%89%E6%96%B9Key%E7%94%B3%E8%AF%B7.mp4)
 
 ### 9.1 申请应用证书
 
