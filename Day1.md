@@ -283,7 +283,7 @@ Client/Cloud架构设计，完整的前后端分离，在移动端实现界面�
 
 <div id="P5"></div>
 
-# 5. UI架构设计[>>查看配套的视频讲解]http://apicloudspace.b0.upaiyun.com/video-seven1/5.1%265.2%20APICloud%E7%95%8C%E9%9D%A2%E5%B8%83%E5%B1%80%E4%BA%94%E5%A4%A7%E7%BB%84%E4%BB%B6.mp4)
+# 5. UI架构设计[>>查看配套的视频讲解](http://apicloudspace.b0.upaiyun.com/video-seven1/5.1%265.2%20APICloud%E7%95%8C%E9%9D%A2%E5%B8%83%E5%B1%80%E4%BA%94%E5%A4%A7%E7%BB%84%E4%BB%B6.mp4)
 
 *使用APICloud界面布局5大组件进行UI架构设计*
 
