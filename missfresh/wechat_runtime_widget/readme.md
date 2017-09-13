@@ -8,4 +8,4 @@
 ## 入门文档
 
 * [如何快速将 APICloud 应用转换为微信公众号?
-](http://docs.apicloud.com/wechatoffacc/apicloud_web_runtime_guid)
+](http://docs.apicloud.com/Wechatoffacc/apicloud_web_runtime_guid)
