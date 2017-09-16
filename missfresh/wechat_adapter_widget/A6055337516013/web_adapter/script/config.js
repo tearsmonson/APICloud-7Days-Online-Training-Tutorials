@@ -1,5 +1,5 @@
 /* 项目配置.基于默认配置,可以通过
- http://www.example.com/PUBLIC_PATH/web_runtime/runtime.html
+ http://www.example.com/PUBLIC_PATH/web_adapter/adapter.html
 访问自己的 app.如有修改,请对应变换访问地址即可.
 
 服务器静态部署目录 PUBLIC_PATH,默认为用户 appId
@@ -9,12 +9,12 @@
 /* app 入口文件. */
 var APP_INDEX_PATH = 'index.html'
 
-/* ====================== 以下运行时相关配置,一般不需要修改.=================== */
-/* 运行时入口文件. */
-var WEB_RUNTIME_INDEX_PATH = 'web_runtime/runtime.html'
+/* ====================== 以下适配器相关配置,一般不需要修改.=================== */
+/* 适配器入口文件. */
+var WEB_ADAPTER_INDEX_PATH = 'web_adapter/adapter.html'
 
-/* 运行时核心js文件. */
-var WEB_RUNTIME_CORE_JS_PATH = 'web_runtime/script/runtime.js'
+/* 适配器核心js文件. */
+var WEB_ADAPTER_CORE_JS_PATH = 'web_adapter/script/adapter.js'
 
 /* =================== 应用和模块相关信息.一般由 APICloud 服务器自动生成.============= */
 var PUBLIC_PATH = '/A6055337516013/'
