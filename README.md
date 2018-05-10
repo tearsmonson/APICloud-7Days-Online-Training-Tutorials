@@ -7,7 +7,7 @@
 
 希望通过课程和大家一起交流，共同分享，不断的来完善教程、丰富实例代码和案例。谢谢。
 
-最新教程：[GitHub地址](https://github.com/apicloudcom/APICloud-7Days-Online-Training-Tutorials)
+最新教程讲解和七天课程的完整视频详见：APICloud官方出品的新书[30天App开发从0到1](https://github.com/apicloudcom/30-APP-0-1)
 
 
 # [Day-1课程内容](https://github.com/apicloudcom/APICloud-7Days-Online-Training-Tutorials/blob/master/Day1.md)
